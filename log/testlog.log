@@ -1,0 +1,440 @@
+2021-08-27 10:42:00,607 - Bitbatua -INFO - URL is opened
+2021-08-27 10:42:01,040 - Bitbatua -INFO - Entered username
+2021-08-27 10:42:01,296 - Bitbatua -INFO - Entered password
+2021-08-27 10:42:01,510 - Bitbatua -INFO - Login test passed
+2021-08-27 12:00:24,347 - Bitbatua -INFO - URL is opened
+2021-08-27 12:01:31,997 - Bitbatua -INFO - URL is opened
+2021-08-27 12:25:01,057 - Bitbatua -INFO - URL is opened
+2021-08-27 12:25:01,470 - Bitbatua -INFO - Entered username
+2021-08-27 12:25:01,735 - Bitbatua -INFO - Entered password
+2021-08-27 12:25:01,948 - Bitbatua -INFO - Login test passed
+2021-08-27 13:04:42,914 - Bitbatua -INFO - URL is opened
+2021-08-27 13:04:43,347 - Bitbatua -INFO - Entered username
+2021-08-27 13:04:43,592 - Bitbatua -INFO - Entered password
+2021-08-27 13:04:43,854 - Bitbatua -INFO - Login test passed
+2021-08-27 13:10:49,727 - Bitbatua -INFO - URL is opened
+2021-08-27 13:10:50,004 - Bitbatua -INFO - Entered username
+2021-08-27 13:10:50,067 - Bitbatua -INFO - Entered password
+2021-08-27 13:10:50,357 - Bitbatua -INFO - Login test passed
+2021-08-27 14:59:48,357 - Bitbatua -INFO - URL is opened
+2021-08-27 14:59:48,805 - Bitbatua -INFO - Entered username
+2021-08-27 14:59:49,060 - Bitbatua -INFO - Entered password
+2021-08-27 14:59:49,304 - Bitbatua -INFO - Login test passed
+2021-08-27 15:02:38,763 - Bitbatua -INFO - URL is opened
+2021-08-27 15:02:39,177 - Bitbatua -INFO - Entered username
+2021-08-27 15:02:39,433 - Bitbatua -INFO - Entered password
+2021-08-27 15:02:39,686 - Bitbatua -INFO - Login test passed
+2021-08-27 15:23:00,112 - Bitbatua -INFO - URL is opened
+2021-08-27 15:23:00,540 - Bitbatua -INFO - Entered username
+2021-08-27 15:23:00,799 - Bitbatua -INFO - Entered password
+2021-08-27 17:03:49,907 - Bitbatua -INFO - user name provided
+2021-08-27 17:03:50,174 - Bitbatua -INFO - password provided
+2021-08-27 17:03:53,436 - Bitbatua -INFO - Login passed
+2021-08-27 17:04:29,666 - Bitbatua -INFO - user name provided
+2021-08-27 17:04:29,923 - Bitbatua -INFO - password provided
+2021-08-27 17:04:33,130 - Bitbatua -INFO - Login passed
+2021-08-27 17:07:08,403 - Bitbatua -INFO - user name provided
+2021-08-27 17:07:08,621 - Bitbatua -INFO - password provided
+2021-08-27 17:07:11,835 - Bitbatua -INFO - Login passed
+2021-08-27 17:07:22,116 - Bitbatua -INFO - user name provided
+2021-08-27 17:07:22,276 - Bitbatua -INFO - password provided
+2021-08-27 17:07:25,391 - Bitbatua -INFO - Login passed
+2021-08-27 17:07:35,716 - Bitbatua -INFO - user name provided
+2021-08-27 17:07:35,895 - Bitbatua -INFO - password provided
+2021-08-27 17:07:39,008 - Bitbatua -INFO - Login passed
+2021-08-27 17:07:49,220 - Bitbatua -INFO - user name provided
+2021-08-27 17:07:49,373 - Bitbatua -INFO - password provided
+2021-08-27 17:07:52,496 - Bitbatua -INFO - Login passed
+2021-08-27 17:08:02,725 - Bitbatua -INFO - user name provided
+2021-08-27 17:08:02,896 - Bitbatua -INFO - password provided
+2021-08-27 17:08:06,011 - Bitbatua -INFO - Login passed
+2021-08-27 17:10:36,060 - Bitbatua -INFO - user name provided
+2021-08-27 17:10:36,329 - Bitbatua -INFO - password provided
+2021-08-27 17:10:39,642 - Bitbatua -INFO - Login passed
+2021-08-30 09:58:48,381 - Bitbatua -INFO - URL is opened
+2021-08-30 09:58:48,800 - Bitbatua -INFO - Entered username
+2021-08-30 09:58:49,050 - Bitbatua -INFO - Entered password
+2021-08-30 09:58:49,298 - Bitbatua -INFO - Login test passed
+2021-08-30 10:08:26,092 - Bitbatua -INFO - URL is opened
+2021-08-30 10:08:26,880 - Bitbatua -INFO - Entered username
+2021-08-30 10:08:27,250 - Bitbatua -INFO - Entered password
+2021-08-30 10:08:27,573 - Bitbatua -INFO - Login test passed
+2021-08-30 10:09:57,603 - Bitbatua -INFO - URL is opened
+2021-08-30 10:09:58,032 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:09:58,381 - Bitbatua -INFO - Entered username
+2021-08-30 10:09:58,744 - Bitbatua -INFO - Entered password
+2021-08-30 10:09:59,035 - Bitbatua -INFO - Login test passed
+2021-08-30 10:11:38,373 - Bitbatua -INFO - URL is opened
+2021-08-30 10:11:38,808 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:11:39,176 - Bitbatua -INFO - Entered username
+2021-08-30 10:11:39,462 - Bitbatua -INFO - Entered password
+2021-08-30 10:11:39,825 - Bitbatua -INFO - Login test passed
+2021-08-30 10:14:06,842 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:14:07,209 - Bitbatua -INFO - user name provided
+2021-08-30 10:14:07,581 - Bitbatua -INFO - password provided
+2021-08-30 10:14:10,931 - Bitbatua -INFO - Login passed
+2021-08-30 10:14:14,360 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:14:14,682 - Bitbatua -INFO - user name provided
+2021-08-30 10:14:14,925 - Bitbatua -INFO - password provided
+2021-08-30 10:14:18,108 - Bitbatua -INFO - Login passed
+2021-08-30 10:14:28,313 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:14:28,576 - Bitbatua -INFO - user name provided
+2021-08-30 10:14:28,767 - Bitbatua -INFO - password provided
+2021-08-30 10:14:31,894 - Bitbatua -INFO - Login passed
+2021-08-30 10:14:42,059 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:14:42,281 - Bitbatua -INFO - user name provided
+2021-08-30 10:14:42,472 - Bitbatua -INFO - password provided
+2021-08-30 10:14:45,598 - Bitbatua -INFO - Login passed
+2021-08-30 10:29:34,341 - Bitbatua -INFO - URL is opened
+2021-08-30 10:29:34,780 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:29:35,129 - Bitbatua -INFO - Entered username
+2021-08-30 10:29:35,402 - Bitbatua -INFO - Entered password
+2021-08-30 10:29:35,730 - Bitbatua -INFO - Login test passed
+2021-08-30 10:35:57,405 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:35:57,811 - Bitbatua -INFO - user name provided
+2021-08-30 10:35:58,171 - Bitbatua -INFO - password provided
+2021-08-30 10:36:01,506 - Bitbatua -INFO - Login passed
+2021-08-30 10:36:04,959 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:36:05,265 - Bitbatua -INFO - user name provided
+2021-08-30 10:36:05,498 - Bitbatua -INFO - password provided
+2021-08-30 10:36:08,673 - Bitbatua -INFO - Login passed
+2021-08-30 10:36:18,852 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:36:19,092 - Bitbatua -INFO - user name provided
+2021-08-30 10:36:19,271 - Bitbatua -INFO - password provided
+2021-08-30 10:36:22,404 - Bitbatua -INFO - Login passed
+2021-08-30 10:40:59,940 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:41:00,343 - Bitbatua -INFO - user name provided
+2021-08-30 10:41:00,726 - Bitbatua -INFO - password provided
+2021-08-30 10:43:24,900 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:43:25,287 - Bitbatua -INFO - user name provided
+2021-08-30 10:43:25,549 - Bitbatua -INFO - password provided
+2021-08-30 10:43:28,969 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:43:29,357 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:43:29,679 - Bitbatua -INFO - user name provided
+2021-08-30 10:43:29,917 - Bitbatua -INFO - password provided
+2021-08-30 10:43:43,289 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:43:43,534 - Bitbatua -INFO - user name provided
+2021-08-30 10:43:43,755 - Bitbatua -INFO - password provided
+2021-08-30 10:43:57,065 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:43:57,356 - Bitbatua -INFO - user name provided
+2021-08-30 10:43:57,577 - Bitbatua -INFO - password provided
+2021-08-30 10:44:10,882 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:44:11,110 - Bitbatua -INFO - user name provided
+2021-08-30 10:44:11,307 - Bitbatua -INFO - password provided
+2021-08-30 10:46:57,856 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:46:58,353 - Bitbatua -INFO - user name provided
+2021-08-30 10:46:58,868 - Bitbatua -INFO - password provided
+2021-08-30 10:47:02,248 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:47:02,610 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:47:03,005 - Bitbatua -INFO - user name provided
+2021-08-30 10:47:03,329 - Bitbatua -INFO - password provided
+2021-08-30 10:47:16,716 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:47:17,032 - Bitbatua -INFO - user name provided
+2021-08-30 10:47:17,303 - Bitbatua -INFO - password provided
+2021-08-30 10:47:20,622 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:47:20,964 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:47:21,341 - Bitbatua -INFO - user name provided
+2021-08-30 10:47:21,679 - Bitbatua -INFO - password provided
+2021-08-30 10:47:35,095 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:47:35,520 - Bitbatua -INFO - user name provided
+2021-08-30 10:47:35,903 - Bitbatua -INFO - password provided
+2021-08-30 10:49:40,898 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:49:41,387 - Bitbatua -INFO - user name provided
+2021-08-30 10:49:41,889 - Bitbatua -INFO - password provided
+2021-08-30 10:49:45,289 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:49:45,335 - Bitbatua -INFO - Login passed
+2021-08-30 10:49:45,762 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:49:46,160 - Bitbatua -INFO - user name provided
+2021-08-30 10:49:46,491 - Bitbatua -INFO - password provided
+2021-08-30 10:49:59,831 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:50:00,172 - Bitbatua -INFO - user name provided
+2021-08-30 10:50:00,450 - Bitbatua -INFO - password provided
+2021-08-30 10:50:03,779 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:50:03,787 - Bitbatua -INFO - Login passed
+2021-08-30 10:50:04,177 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:50:04,562 - Bitbatua -INFO - user name provided
+2021-08-30 10:50:04,903 - Bitbatua -INFO - password provided
+2021-08-30 10:50:18,238 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:50:18,550 - Bitbatua -INFO - user name provided
+2021-08-30 10:50:18,807 - Bitbatua -INFO - password provided
+2021-08-30 10:52:40,726 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:52:41,208 - Bitbatua -INFO - user name provided
+2021-08-30 10:52:41,722 - Bitbatua -INFO - password provided
+2021-08-30 10:52:45,111 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:52:45,476 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:52:45,870 - Bitbatua -INFO - user name provided
+2021-08-30 10:52:46,199 - Bitbatua -INFO - password provided
+2021-08-30 10:52:59,614 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:52:59,937 - Bitbatua -INFO - user name provided
+2021-08-30 10:53:00,203 - Bitbatua -INFO - password provided
+2021-08-30 10:53:03,500 - Bitbatua -INFO - Click On Logout
+2021-08-30 10:53:03,845 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:53:04,230 - Bitbatua -INFO - user name provided
+2021-08-30 10:53:04,558 - Bitbatua -INFO - password provided
+2021-08-30 10:53:17,925 - Bitbatua -INFO - Clicked On Login
+2021-08-30 10:53:18,282 - Bitbatua -INFO - user name provided
+2021-08-30 10:53:18,543 - Bitbatua -INFO - password provided
+2021-08-30 12:29:17,281 - Bitbatua -INFO - URL is opened
+2021-08-30 12:29:17,763 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 12:45:45,463 - Bitbatua -INFO - URL is opened
+2021-08-30 12:45:45,943 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 12:45:46,293 - Bitbatua -INFO - Entered Full Name
+2021-08-30 12:45:46,826 - Bitbatua -INFO - Entered Email Address
+2021-08-30 12:45:47,089 - Bitbatua -INFO - Entered Password
+2021-08-30 12:45:47,294 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 12:45:47,496 - Bitbatua -INFO - Click On SignUP
+2021-08-30 12:45:50,507 - Bitbatua -INFO - validation started....
+2021-08-30 12:45:50,672 - Bitbatua -INFO - test case failed....
+2021-08-30 12:47:31,806 - Bitbatua -INFO - URL is opened
+2021-08-30 12:47:32,280 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 12:47:32,630 - Bitbatua -INFO - Entered Full Name
+2021-08-30 12:47:33,054 - Bitbatua -INFO - Entered Email Address
+2021-08-30 12:47:33,433 - Bitbatua -INFO - Entered Password
+2021-08-30 12:47:33,655 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 12:47:33,868 - Bitbatua -INFO - Click On SignUP
+2021-08-30 12:47:36,879 - Bitbatua -INFO - validation started....
+2021-08-30 12:47:37,053 - Bitbatua -INFO - test case failed....
+2021-08-30 13:14:33,100 - Bitbatua -INFO - URL is opened
+2021-08-30 13:14:34,086 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 13:14:34,358 - Bitbatua -INFO - Entered Full Name
+2021-08-30 13:14:34,631 - Bitbatua -INFO - Entered Email Address
+2021-08-30 13:14:39,873 - Bitbatua -INFO - Entered Password
+2021-08-30 13:14:40,051 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 13:14:40,212 - Bitbatua -INFO - Click On SignUP
+2021-08-30 13:14:43,223 - Bitbatua -INFO - validation started....
+2021-08-30 13:14:43,370 - Bitbatua -INFO - test case failed....
+2021-08-30 13:36:14,617 - Bitbatua -INFO - URL is opened
+2021-08-30 13:36:15,109 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 13:36:15,468 - Bitbatua -INFO - Entered Full Name
+2021-08-30 13:36:15,815 - Bitbatua -INFO - Entered Email Address
+2021-08-30 13:36:21,114 - Bitbatua -INFO - Entered Password
+2021-08-30 13:36:21,346 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 13:36:21,541 - Bitbatua -INFO - Click On SignUP
+2021-08-30 13:36:24,548 - Bitbatua -INFO - validation started....
+2021-08-30 13:36:24,715 - Bitbatua -INFO - test case failed....
+2021-08-30 14:16:12,308 - Bitbatua -INFO - URL is opened
+2021-08-30 14:16:12,797 - Bitbatua -INFO - Clicked On Login
+2021-08-30 14:16:13,290 - Bitbatua -INFO - Entered username
+2021-08-30 14:16:17,199 - Bitbatua -INFO - Entered password
+2021-08-30 14:16:17,511 - Bitbatua -INFO - Login test passed
+2021-08-30 14:16:23,584 - Bitbatua -INFO - URL is opened
+2021-08-30 14:16:23,970 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 14:16:24,314 - Bitbatua -INFO - Entered Full Name
+2021-08-30 14:16:24,656 - Bitbatua -INFO - Entered Email Address
+2021-08-30 14:16:29,937 - Bitbatua -INFO - Entered Password
+2021-08-30 14:16:30,153 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 14:16:30,362 - Bitbatua -INFO - Click On SignUP
+2021-08-30 14:16:33,376 - Bitbatua -INFO - validation started....
+2021-08-30 14:16:33,518 - Bitbatua -INFO - test case failed....
+2021-08-30 14:53:59,268 - Bitbatua -INFO - URL is opened
+2021-08-30 14:53:59,714 - Bitbatua -INFO - Clicked On Login
+2021-08-30 14:54:00,185 - Bitbatua -INFO - Entered username
+2021-08-30 14:54:00,701 - Bitbatua -INFO - Entered password
+2021-08-30 14:54:00,984 - Bitbatua -INFO - Login test passed
+2021-08-30 14:54:07,088 - Bitbatua -INFO - URL is opened
+2021-08-30 14:54:07,480 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 14:54:07,810 - Bitbatua -INFO - Entered Full Name
+2021-08-30 14:54:08,143 - Bitbatua -INFO - Entered Email Address
+2021-08-30 14:54:10,420 - Bitbatua -INFO - Entered Password
+2021-08-30 14:54:10,638 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 14:54:10,825 - Bitbatua -INFO - Click On SignUP
+2021-08-30 14:54:13,831 - Bitbatua -INFO - validation started....
+2021-08-30 14:54:13,973 - Bitbatua -INFO - test case failed....
+2021-08-30 14:54:20,637 - Bitbatua -INFO - URL is opened
+2021-08-30 14:54:21,000 - Bitbatua -INFO - Clicked On Login
+2021-08-30 14:54:21,306 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 14:54:21,699 - Bitbatua -INFO - Entered Email Address
+2021-08-30 14:54:21,992 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 14:55:57,141 - Bitbatua -INFO - URL is opened
+2021-08-30 14:55:57,572 - Bitbatua -INFO - Clicked On Login
+2021-08-30 14:55:58,009 - Bitbatua -INFO - Entered username
+2021-08-30 14:55:58,447 - Bitbatua -INFO - Entered password
+2021-08-30 14:56:05,626 - Bitbatua -INFO - URL is opened
+2021-08-30 14:56:06,021 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 14:56:06,365 - Bitbatua -INFO - Entered Full Name
+2021-08-30 14:56:06,732 - Bitbatua -INFO - Entered Email Address
+2021-08-30 14:56:09,017 - Bitbatua -INFO - Entered Password
+2021-08-30 14:56:09,218 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 14:56:09,451 - Bitbatua -INFO - Click On SignUP
+2021-08-30 14:56:12,466 - Bitbatua -INFO - validation started....
+2021-08-30 14:56:12,595 - Bitbatua -INFO - test case failed....
+2021-08-30 14:56:19,416 - Bitbatua -INFO - URL is opened
+2021-08-30 14:56:19,782 - Bitbatua -INFO - Clicked On Login
+2021-08-30 14:56:20,117 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 14:56:20,550 - Bitbatua -INFO - Entered Email Address
+2021-08-30 14:56:20,978 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 15:32:21,705 - Bitbatua -INFO - URL is opened
+2021-08-30 15:32:22,189 - Bitbatua -INFO - Clicked On Login
+2021-08-30 15:32:22,703 - Bitbatua -INFO - Entered username
+2021-08-30 15:32:23,206 - Bitbatua -INFO - Entered password
+2021-08-30 15:32:30,608 - Bitbatua -INFO - URL is opened
+2021-08-30 15:32:31,024 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 15:32:31,395 - Bitbatua -INFO - Entered Full Name
+2021-08-30 15:32:31,744 - Bitbatua -INFO - Entered Email Address
+2021-08-30 15:32:34,061 - Bitbatua -INFO - Entered Password
+2021-08-30 15:32:34,318 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 15:32:34,558 - Bitbatua -INFO - Click On SignUP
+2021-08-30 15:32:37,560 - Bitbatua -INFO - validation started....
+2021-08-30 15:32:37,693 - Bitbatua -INFO - test case failed....
+2021-08-30 15:32:44,648 - Bitbatua -INFO - URL is opened
+2021-08-30 15:32:45,038 - Bitbatua -INFO - Clicked On Login
+2021-08-30 15:32:45,387 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 15:32:46,071 - Bitbatua -INFO - Entered Email Address
+2021-08-30 15:32:46,306 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 15:38:16,394 - Bitbatua -INFO - URL is opened
+2021-08-30 15:38:16,835 - Bitbatua -INFO - Clicked On Login
+2021-08-30 15:38:17,298 - Bitbatua -INFO - Entered username
+2021-08-30 15:38:17,664 - Bitbatua -INFO - Entered password
+2021-08-30 15:38:18,054 - Bitbatua -INFO - Login test passed
+2021-08-30 15:38:24,243 - Bitbatua -INFO - URL is opened
+2021-08-30 15:38:24,628 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 15:38:24,985 - Bitbatua -INFO - Entered Full Name
+2021-08-30 15:38:25,344 - Bitbatua -INFO - Entered Email Address
+2021-08-30 15:38:27,626 - Bitbatua -INFO - Entered Password
+2021-08-30 15:38:27,867 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 15:38:28,075 - Bitbatua -INFO - Click On SignUP
+2021-08-30 15:38:31,079 - Bitbatua -INFO - validation started....
+2021-08-30 15:38:31,219 - Bitbatua -INFO - test case failed....
+2021-08-30 15:38:37,623 - Bitbatua -INFO - URL is opened
+2021-08-30 15:38:37,974 - Bitbatua -INFO - Clicked On Login
+2021-08-30 15:38:38,283 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 15:38:38,654 - Bitbatua -INFO - Entered Email Address
+2021-08-30 15:38:39,092 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 15:40:20,504 - Bitbatua -INFO - URL is opened
+2021-08-30 15:40:20,950 - Bitbatua -INFO - Clicked On Login
+2021-08-30 15:40:21,417 - Bitbatua -INFO - Entered username
+2021-08-30 15:40:21,775 - Bitbatua -INFO - Entered password
+2021-08-30 15:40:28,957 - Bitbatua -INFO - URL is opened
+2021-08-30 15:40:29,341 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 15:40:29,690 - Bitbatua -INFO - Entered Full Name
+2021-08-30 15:40:30,106 - Bitbatua -INFO - Entered Email Address
+2021-08-30 15:40:32,386 - Bitbatua -INFO - Entered Password
+2021-08-30 15:40:32,604 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 15:40:32,811 - Bitbatua -INFO - Click On SignUP
+2021-08-30 15:40:35,819 - Bitbatua -INFO - validation started....
+2021-08-30 15:40:35,949 - Bitbatua -INFO - test case failed....
+2021-08-30 15:40:42,434 - Bitbatua -INFO - URL is opened
+2021-08-30 15:40:42,791 - Bitbatua -INFO - Clicked On Login
+2021-08-30 15:40:43,104 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 15:40:43,562 - Bitbatua -INFO - Entered Email Address
+2021-08-30 15:40:43,927 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 17:04:44,308 - Bitbatua -INFO - URL is opened
+2021-08-30 17:04:44,770 - Bitbatua -INFO - Clicked On Login
+2021-08-30 17:04:45,217 - Bitbatua -INFO - Entered username
+2021-08-30 17:04:45,567 - Bitbatua -INFO - Entered password
+2021-08-30 17:04:52,411 - Bitbatua -INFO - URL is opened
+2021-08-30 17:04:52,843 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 17:04:53,158 - Bitbatua -INFO - Entered Full Name
+2021-08-30 17:04:53,511 - Bitbatua -INFO - Entered Email Address
+2021-08-30 17:04:55,786 - Bitbatua -INFO - Entered Password
+2021-08-30 17:04:55,989 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 17:04:56,192 - Bitbatua -INFO - Click On SignUP
+2021-08-30 17:04:59,207 - Bitbatua -INFO - validation started....
+2021-08-30 17:04:59,340 - Bitbatua -INFO - test case failed....
+2021-08-30 17:05:05,778 - Bitbatua -INFO - URL is opened
+2021-08-30 17:05:06,133 - Bitbatua -INFO - Clicked On Login
+2021-08-30 17:05:06,429 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 17:05:06,771 - Bitbatua -INFO - Entered Email Address
+2021-08-30 17:05:06,988 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 18:02:58,027 - Bitbatua -INFO - URL is opened
+2021-08-30 18:02:58,519 - Bitbatua -INFO - Clicked On Login
+2021-08-30 18:02:59,030 - Bitbatua -INFO - Entered username
+2021-08-30 18:02:59,508 - Bitbatua -INFO - Entered password
+2021-08-30 18:02:59,740 - Bitbatua -INFO - Login test passed
+2021-08-30 18:03:05,952 - Bitbatua -INFO - URL is opened
+2021-08-30 18:03:06,334 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 18:03:06,667 - Bitbatua -INFO - Entered Full Name
+2021-08-30 18:03:07,152 - Bitbatua -INFO - Entered Email Address
+2021-08-30 18:03:09,419 - Bitbatua -INFO - Entered Password
+2021-08-30 18:03:09,626 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 18:03:09,875 - Bitbatua -INFO - Click On SignUP
+2021-08-30 18:03:18,994 - Bitbatua -INFO - URL is opened
+2021-08-30 18:03:19,362 - Bitbatua -INFO - Clicked On Login
+2021-08-30 18:03:19,663 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 18:03:20,003 - Bitbatua -INFO - Entered Email Address
+2021-08-30 18:03:20,324 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 18:05:51,363 - Bitbatua -INFO - URL is opened
+2021-08-30 18:05:51,804 - Bitbatua -INFO - Clicked On Login
+2021-08-30 18:05:52,248 - Bitbatua -INFO - Entered username
+2021-08-30 18:05:52,627 - Bitbatua -INFO - Entered password
+2021-08-30 18:05:52,971 - Bitbatua -INFO - Login test passed
+2021-08-30 18:05:59,084 - Bitbatua -INFO - URL is opened
+2021-08-30 18:05:59,465 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 18:05:59,797 - Bitbatua -INFO - Entered Full Name
+2021-08-30 18:06:00,164 - Bitbatua -INFO - Entered Email Address
+2021-08-30 18:06:02,441 - Bitbatua -INFO - Entered Password
+2021-08-30 18:06:02,699 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 18:06:02,932 - Bitbatua -INFO - Click On SignUP
+2021-08-30 18:06:11,934 - Bitbatua -INFO - URL is opened
+2021-08-30 18:06:12,283 - Bitbatua -INFO - Clicked On Login
+2021-08-30 18:06:12,589 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 18:06:12,910 - Bitbatua -INFO - Entered Email Address
+2021-08-30 18:06:13,154 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-30 18:15:52,280 - Bitbatua -INFO - URL is opened
+2021-08-30 18:15:52,745 - Bitbatua -INFO - Clicked On Login
+2021-08-30 18:15:53,179 - Bitbatua -INFO - Entered username
+2021-08-30 18:15:53,548 - Bitbatua -INFO - Entered password
+2021-08-30 18:15:53,810 - Bitbatua -INFO - Login test passed
+2021-08-30 18:15:59,926 - Bitbatua -INFO - URL is opened
+2021-08-30 18:16:00,311 - Bitbatua -INFO - Clicked On SignUP
+2021-08-30 18:16:00,636 - Bitbatua -INFO - Entered Full Name
+2021-08-30 18:16:00,978 - Bitbatua -INFO - Entered Email Address
+2021-08-30 18:16:03,259 - Bitbatua -INFO - Entered Password
+2021-08-30 18:16:03,470 - Bitbatua -INFO - Click on Checkbox
+2021-08-30 18:16:03,672 - Bitbatua -INFO - Click On SignUP
+2021-08-30 18:16:12,763 - Bitbatua -INFO - URL is opened
+2021-08-30 18:16:13,114 - Bitbatua -INFO - Clicked On Login
+2021-08-30 18:16:13,395 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-30 18:16:13,723 - Bitbatua -INFO - Entered Email Address
+2021-08-30 18:16:14,018 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-31 09:50:59,069 - Bitbatua -INFO - URL is opened
+2021-08-31 09:50:59,552 - Bitbatua -INFO - Clicked On Login
+2021-08-31 09:51:00,001 - Bitbatua -INFO - Entered username
+2021-08-31 09:51:00,502 - Bitbatua -INFO - Entered password
+2021-08-31 09:51:00,747 - Bitbatua -INFO - Login test passed
+2021-08-31 09:51:08,325 - Bitbatua -INFO - URL is opened
+2021-08-31 09:51:08,705 - Bitbatua -INFO - Clicked On SignUP
+2021-08-31 09:51:09,042 - Bitbatua -INFO - Entered Full Name
+2021-08-31 09:51:09,460 - Bitbatua -INFO - Entered Email Address
+2021-08-31 09:51:11,751 - Bitbatua -INFO - Entered Password
+2021-08-31 09:51:11,976 - Bitbatua -INFO - Click on Checkbox
+2021-08-31 09:51:12,191 - Bitbatua -INFO - Click On SignUP
+2021-08-31 09:51:22,637 - Bitbatua -INFO - URL is opened
+2021-08-31 09:51:22,995 - Bitbatua -INFO - Clicked On Login
+2021-08-31 09:51:23,283 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-31 09:51:23,618 - Bitbatua -INFO - Entered Email Address
+2021-08-31 09:51:23,846 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-31 12:08:00,660 - Bitbatua -INFO - URL is opened
+2021-08-31 12:08:01,550 - Bitbatua -INFO - Clicked On Login
+2021-08-31 12:08:01,945 - Bitbatua -INFO - Entered username
+2021-08-31 12:08:02,291 - Bitbatua -INFO - Entered password
+2021-08-31 12:08:02,480 - Bitbatua -INFO - Login test passed
+2021-08-31 12:08:09,205 - Bitbatua -INFO - URL is opened
+2021-08-31 12:08:09,989 - Bitbatua -INFO - Clicked On SignUP
+2021-08-31 12:08:10,284 - Bitbatua -INFO - Entered Full Name
+2021-08-31 12:08:10,576 - Bitbatua -INFO - Entered Email Address
+2021-08-31 12:08:12,827 - Bitbatua -INFO - Entered Password
+2021-08-31 12:08:13,002 - Bitbatua -INFO - Click on Checkbox
+2021-08-31 12:08:13,160 - Bitbatua -INFO - Click On SignUP
+2021-08-31 12:08:22,624 - Bitbatua -INFO - URL is opened
+2021-08-31 12:08:23,299 - Bitbatua -INFO - Clicked On Login
+2021-08-31 12:08:23,777 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-31 12:08:24,076 - Bitbatua -INFO - Entered Email Address
+2021-08-31 12:08:24,243 - Bitbatua -INFO - Clicked On Send OTP
+2021-08-31 13:33:28,711 - Bitbatua -INFO - URL is opened
+2021-08-31 13:33:29,218 - Bitbatua -INFO - Clicked On Login
+2021-08-31 13:33:29,705 - Bitbatua -INFO - Entered username
+2021-08-31 13:33:30,167 - Bitbatua -INFO - Entered password
+2021-08-31 13:33:30,478 - Bitbatua -INFO - Login test passed
+2021-08-31 13:33:38,072 - Bitbatua -INFO - URL is opened
+2021-08-31 13:33:38,463 - Bitbatua -INFO - Clicked On SignUP
+2021-08-31 13:33:38,805 - Bitbatua -INFO - Entered Full Name
+2021-08-31 13:33:39,127 - Bitbatua -INFO - Entered Email Address
+2021-08-31 13:33:41,422 - Bitbatua -INFO - Entered Password
+2021-08-31 13:33:41,658 - Bitbatua -INFO - Click on Checkbox
+2021-08-31 13:33:41,897 - Bitbatua -INFO - Click On SignUP
+2021-08-31 13:33:52,559 - Bitbatua -INFO - URL is opened
+2021-08-31 13:33:52,942 - Bitbatua -INFO - Clicked On Login
+2021-08-31 13:33:53,280 - Bitbatua -INFO - Clicked On Forgot Password
+2021-08-31 13:33:53,647 - Bitbatua -INFO - Entered Email Address
+2021-08-31 13:33:53,934 - Bitbatua -INFO - Clicked On Send OTP

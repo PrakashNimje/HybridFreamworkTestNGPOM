@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Bitbatua_BIBV1">
+
+	<listeners>
+		<listener class-name="Com.Bitbatua.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="Bitbatua Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="Com.Bitbatua.testcases.TC_LoginTest_001" />
+			<!-- <class name="Com.Bitbatua.testcases.TC_LoginDDT_002" /> -->
+			<class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003" />
+			<class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004" />
+
+
+
+
+
+		</classes>
+
+	</test>
+
+</suite>
+
+

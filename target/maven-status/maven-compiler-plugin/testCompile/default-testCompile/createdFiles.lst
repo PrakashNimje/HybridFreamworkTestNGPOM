@@ -1,0 +1,11 @@
+Com\Bitbatua\testcases\BaseClass.class
+Com\Bitbatua\pageObject\ForgotPassword.class
+Com\Bitbatua\pageObject\LoginPage.class
+Com\Bitbatua\testcases\TC_ForgotPassTest_004.class
+Com\Bitbatua\testcases\TC_LoginTest_001.class
+Com\Bitbatua\utilities\ReadConfig.class
+Com\Bitbatua\utilities\XLUtils.class
+Com\Bitbatua\pageObject\CreateAccount.class
+Com\Bitbatua\utilities\Reporting.class
+Com\Bitbatua\testcases\TC_CreateAccntTest_003.class
+Com\Bitbatua\testcases\TC_LoginDDT_002.class

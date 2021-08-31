@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Bitbatua_BIBV1" duration-ms="36301" started-at="2021-08-31T13:33:18 IST" finished-at="2021-08-31T13:33:54 IST">
+    <groups>
+    </groups>
+    <test name="Bitbatua Test" duration-ms="36301" started-at="2021-08-31T13:33:18 IST" finished-at="2021-08-31T13:33:54 IST">
+      <class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateAccntTest_003@3bfdc050]" name="setup" is-config="true" duration-ms="5447" started-at="2021-08-31T13:33:31 IST" finished-at="2021-08-31T13:33:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateAccountTest()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateAccntTest_003@3bfdc050]" name="CreateAccountTest" duration-ms="8166" started-at="2021-08-31T13:33:36 IST" finished-at="2021-08-31T13:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateAccntTest_003@3bfdc050]" name="tearDown" is-config="true" duration-ms="772" started-at="2021-08-31T13:33:44 IST" finished-at="2021-08-31T13:33:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Bitbatua.testcases.TC_CreateAccntTest_003 -->
+      <class name="Com.Bitbatua.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@42d80b78]" name="setup" is-config="true" duration-ms="8426" started-at="2021-08-31T13:33:18 IST" finished-at="2021-08-31T13:33:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@42d80b78]" name="loginTest" duration-ms="3117" started-at="2021-08-31T13:33:27 IST" finished-at="2021-08-31T13:33:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@42d80b78]" name="tearDown" is-config="true" duration-ms="772" started-at="2021-08-31T13:33:30 IST" finished-at="2021-08-31T13:33:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Bitbatua.testcases.TC_LoginTest_001 -->
+      <class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_ForgotPassTest_004@1bce4f0a]" name="setup" is-config="true" duration-ms="5569" started-at="2021-08-31T13:33:45 IST" finished-at="2021-08-31T13:33:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ForgotPassTest()[pri:0, instance:Com.Bitbatua.testcases.TC_ForgotPassTest_004@1bce4f0a]" name="ForgotPassTest" duration-ms="2685" started-at="2021-08-31T13:33:51 IST" finished-at="2021-08-31T13:33:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPassTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_ForgotPassTest_004@1bce4f0a]" name="tearDown" is-config="true" duration-ms="755" started-at="2021-08-31T13:33:53 IST" finished-at="2021-08-31T13:33:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Bitbatua.testcases.TC_ForgotPassTest_004 -->
+    </test> <!-- Bitbatua Test -->
+  </suite> <!-- Bitbatua_BIBV1 -->
+</testng-results>
