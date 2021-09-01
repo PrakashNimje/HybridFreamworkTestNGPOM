@@ -15,18 +15,18 @@ public class TC_ForgotPassTest_004 extends BaseClass {
 
 		logger.info("URL is opened");
 
-		ForgotPassword FA=new ForgotPassword(driver);	
+		ForgotPassword FP=new ForgotPassword(driver);	
 
-		FA.clickLogin();
+		FP.clickLogin();
 		logger.info("Clicked On Login");
 
-		FA.clickForgotPassword();
+		FP.clickForgotPassword();
 		logger.info("Clicked On Forgot Password");
 
-		FA.EnterEmail("prakashnimje800@gmail.com");
+		FP.EnterEmail("prakashnimje800@gmail.com");
 		logger.info("Entered Email Address");
 
-		FA.clickSendOTP();
+		FP.clickSendOTP();
 		logger.info("Clicked On Send OTP");
 
 
