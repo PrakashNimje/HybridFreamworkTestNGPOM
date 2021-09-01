@@ -8,34 +8,11 @@
   <test name="Bitbatua Test">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Com.Bitbatua.testcases.TC_LoginTest_001"/>
-      <class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003"/>
-      <class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004"/>
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletBTC_007"/>
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletETH_008"/>
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletINR_009"/>
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletUSD_010"/>
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletUSDT_011"/>
     </classes>
   </test> <!-- Bitbatua Test -->
-  <test name="Bitbatua Test(failed)">
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003">
-        <methods>
-          <include name="tearDown"/>
-          <include name="CreateAccountTest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateAccntTest_003 -->
-      <class name="Com.Bitbatua.testcases.TC_LoginTest_001">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="loginTest"/>
-        </methods>
-      </class> <!-- Com.Bitbatua.testcases.TC_LoginTest_001 -->
-      <class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- Com.Bitbatua.testcases.TC_ForgotPassTest_004 -->
-    </classes>
-  </test> <!-- Bitbatua Test(failed) -->
 </suite> <!-- Failed suite [Bitbatua_BIBV1] -->

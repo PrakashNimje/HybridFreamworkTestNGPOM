@@ -8,11 +8,11 @@ import org.testng.annotations.Test;
 import Com.Bitbatua.pageObject.CreateBusinessAccount;
 import Com.Bitbatua.pageObject.LoginPage;
 
-public class TC_CreateBusiAcountTest_005 extends BaseClass {
+public class TC_CreateBusiAcountTest_006 extends BaseClass {
 
 	
 	@Test
-	public void CreateBusinessAccounttTestNGO() throws IOException, InterruptedException
+	public void CreateBusinessAccountTestStore() throws IOException, InterruptedException
 	{
 		driver.get(baseURL);
 		LoginPage lp=new LoginPage(driver);	
@@ -37,9 +37,9 @@ public class TC_CreateBusiAcountTest_005 extends BaseClass {
 	    BusinAcct.Address("Near GTN Nagar, Univercity Delhi,Pin:441802");
 	    logger.info("Entered Address");
 	    BusinAcct.BusinessDroupDown();
-	    BusinAcct.SelectNGO();
+	    BusinAcct.SelectStore();
 	    Thread.sleep(2000);
-	    logger.info("Click on NGO as Nature of Business");	   
+	    logger.info("Click on Store as Nature of Business");	   
 	    BusinAcct.CopuntryDroupDown();
 	    Thread.sleep(2000);	 
 	    BusinAcct.India();

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" total="3" passed="1">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Bitbatua_BIBV1" duration-ms="32645" started-at="2021-08-30T10:10:12Z" finished-at="2021-08-30T10:10:44Z">
+  <suite name="Bitbatua_BIBV1" duration-ms="94597" started-at="2021-09-01T10:25:12Z" finished-at="2021-09-01T10:26:47Z">
     <groups>
     </groups>
-    <test name="Bitbatua Test" duration-ms="32645" started-at="2021-08-30T10:10:12Z" finished-at="2021-08-30T10:10:44Z">
-      <class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateAccntTest_003@6a5fc7f7]" name="setup" is-config="true" duration-ms="4105" started-at="2021-08-30T15:40:23Z" finished-at="2021-08-30T15:40:27Z">
+    <test name="Bitbatua Test" duration-ms="94597" started-at="2021-09-01T10:25:12Z" finished-at="2021-09-01T10:26:47Z">
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletBTC_007">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletBTC_007@3b6eb2ec]" name="setup" is-config="true" duration-ms="7022" started-at="2021-09-01T15:55:13Z" finished-at="2021-09-01T15:55:20Z">
           <params>
             <param index="0">
               <value>
@@ -18,55 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="CreateAccountTest()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateAccntTest_003@6a5fc7f7]" name="CreateAccountTest" duration-ms="8444" started-at="2021-08-30T15:40:27Z" finished-at="2021-08-30T15:40:36Z">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:513)
-	at org.testng.Assert.assertTrue(Assert.java:42)
-	at org.testng.Assert.assertTrue(Assert.java:52)
-	at Com.Bitbatua.testcases.TC_CreateAccntTest_003.CreateAccountTest(TC_CreateAccntTest_003.java:58)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:822)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1130)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="CreateWalletBTC()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletBTC_007@3b6eb2ec]" name="CreateWalletBTC" duration-ms="12895" started-at="2021-09-01T15:55:20Z" finished-at="2021-09-01T15:55:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateAccountTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateAccntTest_003@6a5fc7f7]" name="tearDown" is-config="true" duration-ms="876" started-at="2021-08-30T15:40:36Z" finished-at="2021-08-30T15:40:37Z">
+        </test-method> <!-- CreateWalletBTC -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletBTC_007@3b6eb2ec]" name="tearDown" is-config="true" duration-ms="934" started-at="2021-09-01T15:55:33Z" finished-at="2021-09-01T15:55:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateAccntTest_003 -->
-      <class name="Com.Bitbatua.testcases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@5594a1b5]" name="setup" is-config="true" duration-ms="6464" started-at="2021-08-30T15:40:12Z" finished-at="2021-08-30T15:40:19Z">
+      </class> <!-- Com.Bitbatua.testcases.TC_CreateWalletBTC_007 -->
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletUSD_010">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletUSD_010@7a79be86]" name="setup" is-config="true" duration-ms="4540" started-at="2021-09-01T15:56:11Z" finished-at="2021-09-01T15:56:15Z">
           <params>
             <param index="0">
               <value>
@@ -77,55 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="loginTest()[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@5594a1b5]" name="loginTest" duration-ms="3444" started-at="2021-08-30T15:40:19Z" finished-at="2021-08-30T15:40:22Z">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:513)
-	at org.testng.Assert.assertTrue(Assert.java:42)
-	at org.testng.Assert.assertTrue(Assert.java:52)
-	at Com.Bitbatua.testcases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:42)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:822)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1130)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="CreateWalletUSD()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletUSD_010@7a79be86]" name="CreateWalletUSD" duration-ms="12512" started-at="2021-09-01T15:56:15Z" finished-at="2021-09-01T15:56:28Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@5594a1b5]" name="tearDown" is-config="true" duration-ms="874" started-at="2021-08-30T15:40:22Z" finished-at="2021-08-30T15:40:23Z">
+        </test-method> <!-- CreateWalletUSD -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletUSD_010@7a79be86]" name="tearDown" is-config="true" duration-ms="819" started-at="2021-09-01T15:56:28Z" finished-at="2021-09-01T15:56:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Com.Bitbatua.testcases.TC_LoginTest_001 -->
-      <class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_ForgotPassTest_004@3b6eb2ec]" name="setup" is-config="true" duration-ms="4147" started-at="2021-08-30T15:40:37Z" finished-at="2021-08-30T15:40:41Z">
+      </class> <!-- Com.Bitbatua.testcases.TC_CreateWalletUSD_010 -->
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletUSDT_011">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletUSDT_011@34ce8af7]" name="setup" is-config="true" duration-ms="4466" started-at="2021-09-01T15:56:29Z" finished-at="2021-09-01T15:56:33Z">
           <params>
             <param index="0">
               <value>
@@ -136,15 +60,57 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="ForgotPassTest()[pri:0, instance:Com.Bitbatua.testcases.TC_ForgotPassTest_004@3b6eb2ec]" name="ForgotPassTest" duration-ms="2682" started-at="2021-08-30T15:40:41Z" finished-at="2021-08-30T15:40:43Z">
+        <test-method status="PASS" signature="CreateWalletUSDT()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletUSDT_011@34ce8af7]" name="CreateWalletUSDT" duration-ms="12482" started-at="2021-09-01T15:56:33Z" finished-at="2021-09-01T15:56:46Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ForgotPassTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_ForgotPassTest_004@3b6eb2ec]" name="tearDown" is-config="true" duration-ms="892" started-at="2021-08-30T15:40:43Z" finished-at="2021-08-30T15:40:44Z">
+        </test-method> <!-- CreateWalletUSDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletUSDT_011@34ce8af7]" name="tearDown" is-config="true" duration-ms="1362" started-at="2021-09-01T15:56:46Z" finished-at="2021-09-01T15:56:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Com.Bitbatua.testcases.TC_ForgotPassTest_004 -->
+      </class> <!-- Com.Bitbatua.testcases.TC_CreateWalletUSDT_011 -->
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletINR_009">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletINR_009@6e8dacdf]" name="setup" is-config="true" duration-ms="4788" started-at="2021-09-01T15:55:53Z" finished-at="2021-09-01T15:55:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateWalletINR()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletINR_009@6e8dacdf]" name="CreateWalletINR" duration-ms="12549" started-at="2021-09-01T15:55:57Z" finished-at="2021-09-01T15:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateWalletINR -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletINR_009@6e8dacdf]" name="tearDown" is-config="true" duration-ms="985" started-at="2021-09-01T15:56:10Z" finished-at="2021-09-01T15:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Bitbatua.testcases.TC_CreateWalletINR_009 -->
+      <class name="Com.Bitbatua.testcases.TC_CreateWalletETH_008">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletETH_008@1e643faf]" name="setup" is-config="true" duration-ms="4243" started-at="2021-09-01T15:55:34Z" finished-at="2021-09-01T15:55:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CreateWalletETH()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletETH_008@1e643faf]" name="CreateWalletETH" duration-ms="13002" started-at="2021-09-01T15:55:38Z" finished-at="2021-09-01T15:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateWalletETH -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateWalletETH_008@1e643faf]" name="tearDown" is-config="true" duration-ms="1292" started-at="2021-09-01T15:55:51Z" finished-at="2021-09-01T15:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.Bitbatua.testcases.TC_CreateWalletETH_008 -->
     </test> <!-- Bitbatua Test -->
   </suite> <!-- Bitbatua_BIBV1 -->
 </testng-results>

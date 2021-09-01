@@ -11,13 +11,17 @@
 	<test name="Bitbatua Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="Com.Bitbatua.testcases.TC_LoginTest_001" />
-			<!-- <class name="Com.Bitbatua.testcases.TC_LoginDDT_002" /> -->
-			<class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003" />
-			<class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004" />
-
-
-
+			<!--<class name="Com.Bitbatua.testcases.TC_LoginTest_001" /> -->
+			<!--<class name="Com.Bitbatua.testcases.TC_LoginDDT_002" /> -->
+			<!--<class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003" /> -->
+			<!--<class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004" /> -->
+			<!--<class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005" /> -->
+			<!--<class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006" /> -->
+			<class name="Com.Bitbatua.testcases.TC_CreateWalletBTC_007" />
+			<class name="Com.Bitbatua.testcases.TC_CreateWalletETH_008" />
+			<class name="Com.Bitbatua.testcases.TC_CreateWalletINR_009" />
+			<class name="Com.Bitbatua.testcases.TC_CreateWalletUSD_010" />
+			<class name="Com.Bitbatua.testcases.TC_CreateWalletUSDT_011" />
 
 
 		</classes>

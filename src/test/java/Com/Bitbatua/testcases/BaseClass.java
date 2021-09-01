@@ -59,6 +59,7 @@ public class BaseClass {
 			driver = new InternetExplorerDriver();
 		}
 
+		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		driver.get(baseURL);
 
