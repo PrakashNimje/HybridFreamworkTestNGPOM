@@ -1,9 +1,305 @@
-This is Text File for Testing.
-This is Text File for Testing.
-This is Text File for Testing.
-This is Text File for Testing.
-This is Text File for Testing.
-This is Text File for Testing.
-This is Text File for Testing.
-Prakash How Are You.
-Are You Fine.
+Day 1
+Regression & Sanity	
+-------------------------------------------------
+1)wallebiV1                --------Project Name
+------------------------------------------------------------------
+2.1)src/main/java
+
+2.2)src test java
+1)com.wallebiAsia.PageObjects   --------Package
+    1)login.java            ----------class
+    2)Register.java         ----------class
+
+2)com.wallebiAsia.Testcases     --------Package
+
+3)com.wallebiAsia.TestData      --------Package
+
+4)com.wallebiAsia.Utilities     --------Package
+------------------------------------------------------------------
+3)jre system library        -----------Inbuild By Java
+------------------------------------------------------------------
+4)maven dependency          -----------After Filled by POM
+
+------------------------------------------------------------------
+5)configuration
+------------------------------------------------------------------
+6)drivers                    ----------Folder
+chrom
+ff
+ie
+------------------------------------------------------------------
+7)screenshot                 ----------Failed Screenshot
+-------------------------------------------------------------------
+8)src
+-------------------------------------------------------------------
+9)target
+  pom.xml
+---------------------------------------------------------------------
+Maven Dependancy
+
+1)Selenium Java
+2)TestNG
+3)Apache poi ooxml
+4)ooxml
+5)extent Report	
+6)Common Lang
+7)Common.io
+8)	
+8)Log4J
+
+TC_LoginTest_001
+
+log4j.jar
+logproperties file
+log4j.properties
+
+
+Asst
+1)Create a new Maven Project 
+2)Update Pom
+3)Create a Folder Structure
+4)Create Page Object Class for Login screen
+5)Create login test Case
+6)Add logs to the test case
+
+Day 2
+---------------------------------------
+Read common value from Property files
+con
+Run Test Case in Desired Browser
+chrome
+firefox
+
+Add Extend Report
+----------------------------
+1)Jars
+2)extent-config.xml
+3)lestner (Reporting.java)-------Utility
+4)Add Entry in XML File
+
+Day 3
+---------
+1)Screenshot
+2)data Driven Text
+Apache Poi 
+XLS(
+XlUtiles.java
+
+@DataProvider
+
+Day 4
+Create New Account
+
+Page Objects
+1)Elements
+2)Action 
+
+-------------------------------------------------------------------
+
+Day 5
+Execution 
+1)TestNG.Xml
+Right click >Run As >TestNg Suit
+
+2)Pom.xml (Beacouse our ultimate goal is running with Jenkins)
+1st time Error : No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK?
+Right click >Run As >Maven clean >Maven Test.
+
+3)CLI Maven (without using Eclips)
+---------------------------------------------
+For that install Maven on operating system
+download maven for windows(https://mirrors.estointernet.in/apache/maven/maven-3/3.8.2/binaries/apache-maven-3.8.2-bin.zip)
+You will get 1 zip File.
+Keep in c Drive(Recomanded)
+copy bin path(C:\apache-maven-3.8.2\bin)
+click on This PC >Advance Enviroment Setting
+M2_HOME Path :C:\apache-maven-3.8.2\
+MAVEN_HOME Path :C:\apache-maven-3.8.2\
+also set lib & bin Path JDK
+Now Go to cmd & write mvn -version	
+
+Try to take project in C Drive
+copy location of your project:
+C:\Wallebi\Wallebi Project\Bitbatua_BIBV1
+
+comand prompt
+--------------
+cd C:\Wallebi\Wallebi Project\Bitbatua_BIBV1
+mvn clean install
+
+--------------------------------------------------------------------------------------------------------------
+
+3)Run test case through run.bat (command line)
+C:\Wallebi\Wallebi Project\Bitbatua_BIBV1 --Go to location & create 1 run.bat file and fill with 
+cd C:\Wallebi\Wallebi Project\Bitbatua_BIBV1
+mvn clean install
+save as all files.
+
+5)Jenkin
+https://jenkins.io/download/
+Continious Integration
+1)Maven --Build tool
+2)Jenkins--
+3)Git--- Local Repository
+4)Github--- Remote Repository
+
+1)First download war file then use comand line java -jar (location of war file) & Enter
+it generate one password 
+java -jar  C:\Users\dell\Downloads\jenkins.war
+
+then open
+http://localhost:8080
+Enter password click next
+select 1 box
+getting started(5 min takes)
+Then 
+Create first user admin
+Username:admin
+Password:admin
+confirm password:admin
+Full Name:Prakash
+Email-Add:prakashnimje800@gmail.com
+
+6fa91ae4b6874b5b80d11d309d314771
+
+C:\Users\dell\.jenkins\secrets\initialAdminPassword
+
+http://localhost:8080
+
+http://localhost:8080/
+
+1)Execute project using freestyle project(run.bat)
+
+New Item>Item Name(Project Name)>Freestyle Project>Build
+cd C:\Wallebi\Wallebi Project\Bitbatua_BIBV1
+run.bat
+Save
+
+2)Execute project using Maven(Pom.xml) Recomanded(In Real Time)
+1)Add Maven plugins 2)Manage jenkins>global tool confurgiation= Set jdk path & Maven Path
+ = Open My coputer properties.
+Build: 
+New Item>Item Name(Project Name)>Maven Project>Build
+C:\Wallebi\Wallebi Project\Bitbatua_BIBV1\pom.xml
+clean install
+
+--------------------------------------------------------------------------------------------------------
+(VSS/git)
+Repository-
+Git(local Repository) - Every individual have here own local Repository.
+GitHub(Remote Repository)-
+
+worksplace- just folder in our system
+
+Commit - copy
+push Git to Github
+
+Github URL
+Stagging - Buffer 
+
+Workspace to-- Staging area --- to Git Repo
+
+Eclips to Git = Commit IMP
+Git to Github = Push IMP
+Github to git =Pull IMP
+Git to Eclips = No required any Action( we Direclty Access)
+----------------------------------------------------------------------------------------
+Sending to (Git & Github) = checkIn Process
+checkin is putting changes back into the the local or remote repository 
+
+Pull out (Git & Github) =Checkout Process
+checkout is getting changes out from the local or remote repository                            = 
+
+1)Install Git In Your local System.
+
+File which is Not Part of Git Repository are called as Untrack File(Eclips).
+File which is Already Commited in Git Repository are called as Track File.
+
+2)Create an Account on Github. 
+
+3)Create Repository On Github.
+Remote Repo URL:
+https://github.com/PrakashNimje/HybridFreamworkTestNGPOM.git
+E
+C:\Wallebi\Wallebi Project\Bitbatua_BIBV1
+
+
+Git Commands(ADD, Commit,Push) :Part 1. Local(Eclips) to Remote(Github)
+----------------
+git init ------>create or Initialize Empty git Repository(Local Repository) --------Only one Time
+git remote add origin "https://github.com/PrakashNimje/HybridFreamworkTestNGPOM.git" ---Associate Your local Repo to Remot Repo.to connection Establish.-------Only one Time
+Add= Adding all your file to staging area. 
+git status ----->What are files ready to commit git repository.(OR)To check what are fils committed & what are the files Not commited.
+git add -A ------> ADD ALL YOUR FILES INTO STAGING AREA.
+
+git config --global user.name "PrakashNimje" ----------Only one Time
+git config --global user.email "prakashnimje800@gmail.com"  ---------Only one Time
+
+git commit -m "This is My First Commit" ---------------->To send files in git repository  OR To Commit All the Files into Git Repository.                
+
+*******Still Here Every thing is Reached in Git Repo. Now we have to Push into Github Repo.********
+
+git push -u origin master           // Ask you Username & Password, Pushing the file from git-----to-------Github 
+---------------------------------
+2 nd Round 
+---------
+git status  ------------------What are files ready to commit in git Repository
+git add -A -------------------Add All your files in to staging area
+git commit -m "This is My Second Commit"
+
+git push -u origin master
+
+------------------------------------------------------------------------------------
+Part 2.
+To get Files Remote to local
+git pull origin master  ---->PULL the files Github to Git Repository
+
+
+-------------------------
+1)Branching 
+2)Marging
+
+-------------------------------------------------------------------------------------
+Running Jenkin(Maven project-jenkin Source code)
+Go NEW Item >Enter Item Name > Select Maven Project>OK > Source code management >select git >Enter Git URL(https://github.com/PrakashNimje/HybridFreamworkTestNGPOM.git)>Build>Root POM--pom.xml>Goal and Options---clean install >Save & apply.
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
