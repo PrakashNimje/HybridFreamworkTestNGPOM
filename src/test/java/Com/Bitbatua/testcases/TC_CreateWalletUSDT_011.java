@@ -3,6 +3,7 @@ package Com.Bitbatua.testcases;
 import java.io.IOException;
 
 import org.openqa.selenium.JavascriptExecutor;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Com.Bitbatua.pageObject.CreateBusinessAccount;
@@ -47,7 +48,23 @@ public class TC_CreateWalletUSDT_011 extends BaseClass {
 
 		CretWall.Done();
 		logger.info("Successfully USDT Wallets Created");
+        Thread.sleep(3000);
+		logger.info("validation started....");
 
+		boolean res=driver.getTitle().contains("Wallets Page");
+
+		if(res==true)
+		{
+			Assert.assertTrue(true);
+			logger.info("test case passed....");
+
+		}
+		else
+		{
+			logger.info("test case failed....");
+			captureScreen(driver,"CreateWalletUSDT");
+			Assert.assertTrue(false);
+		}	
 	}
 
 }

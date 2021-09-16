@@ -48,7 +48,7 @@ public class CreateWallet {
 	@CacheLookup
 	WebElement SelectBTC;
 
-	@FindBy(how = How.XPATH, using = "//span[normalize-space()='USDT']")
+	@FindBy(how = How.XPATH, using = "//span[@class='mat-option-text'][normalize-space()='USDT']")
 	@CacheLookup
 	WebElement SelectUSDT;
 

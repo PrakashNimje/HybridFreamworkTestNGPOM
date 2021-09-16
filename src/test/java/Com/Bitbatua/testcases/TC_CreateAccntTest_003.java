@@ -7,8 +7,8 @@ import org.testng.annotations.Test;
 
 import Com.Bitbatua.pageObject.CreateAccount;
 
-public class TC_CreateAccntTest_003 extends BaseClass
-{
+public class TC_CreateAccntTest_003 extends BaseClass{
+
 
 	@Test
 	public void CreateAccountTest() throws IOException, InterruptedException
@@ -41,22 +41,22 @@ public class TC_CreateAccntTest_003 extends BaseClass
 
 		Thread.sleep(3000);
 
-//		logger.info("validation started....");
-//
-//		boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");
-//
-//		if(res==true)
-//		{
-//			Assert.assertTrue(true);
-//			logger.info("test case passed....");
-//
-//		}
-//		else
-//		{
-//			logger.info("test case failed....");
-//			captureScreen(driver,"CreateAccountTest");
-//			Assert.assertTrue(false);
-//		}
+		logger.info("validation started....");
+
+		boolean res=driver.getTitle().contains("Login Page");
+
+		if(res==true)
+		{
+			Assert.assertTrue(true);
+			logger.info("test case passed....");
+
+		}
+		else
+		{
+			logger.info("test case failed....");
+			captureScreen(driver,"CreateAccountTest");
+			Assert.assertTrue(false);
+		}
 	}
 		
 			

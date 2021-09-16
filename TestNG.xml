@@ -11,17 +11,32 @@
 	<test name="Bitbatua Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<!--<class name="Com.Bitbatua.testcases.TC_LoginTest_001" /> -->
-			<!--<class name="Com.Bitbatua.testcases.TC_LoginDDT_002" /> -->
-			<!--<class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003" /> -->
-			<!--<class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004" /> -->
-			<!--<class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005" /> -->
-			<!--<class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006" /> -->
-			<class name="Com.Bitbatua.testcases.TC_CreateWalletBTC_007" />
-			<class name="Com.Bitbatua.testcases.TC_CreateWalletETH_008" />
-			<class name="Com.Bitbatua.testcases.TC_CreateWalletINR_009" />
-			<class name="Com.Bitbatua.testcases.TC_CreateWalletUSD_010" />
-			<class name="Com.Bitbatua.testcases.TC_CreateWalletUSDT_011" />
+		
+	   <class name="Com.Bitbatua.testcases.TC_LoginTest_001" />
+	<!--<class name="Com.Bitbatua.testcases.TC_LoginDDT_002" /> -->
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateAccntTest_003" />-->
+	<!--<class name="Com.Bitbatua.testcases.CreateAccountTest_0003" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_ForgotPassTest_004" /> -->
+	<!-- <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005" />-->	
+	<!-- <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006" />-->	
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateWalletBTC_007" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateWalletETH_008" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateWalletINR_009" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateWalletUSD_010" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateWalletUSDT_011" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateFundaraiser_012" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateFundaraiser_013" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_CreateFundaraiser_014" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_DepositTest_015" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_DepositTest_016" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_WithDrawTest_017" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_WithDrawTest_018" />--> 
+	<!--<class name="Com.Bitbatua.testcases.TC_WithDrawTest_019" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_DepositTest_USDT" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_UserSettingTest_020" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_ChangePassdTest_021" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_ChangeCurrency_022" />-->
+	<!--<class name="Com.Bitbatua.testcases.TC_ChangeCurrency_023" />-->
 
 
 		</classes>
@@ -31,3 +46,4 @@
 </suite>
 
 
+<!-- 002 ,0003,005,006 execute separate   />-->

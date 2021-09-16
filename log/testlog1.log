@@ -584,3 +584,807 @@
 2021-09-01 15:56:43,557 [main] INFO Bitbatua - Entered Wallets Name
 2021-09-01 15:56:46,010 [main] INFO Bitbatua - Selected USDT
 2021-09-01 15:56:46,194 [main] INFO Bitbatua - Successfully USDT Wallets Created
+2021-09-02 12:02:49,549 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-02 12:02:50,908 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-02 12:02:52,206 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-02 12:02:54,660 [main] INFO Bitbatua - Selected BTC
+2021-09-02 12:02:54,851 [main] INFO Bitbatua - Successfully BTC Wallets Created
+2021-09-02 12:03:07,076 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-02 12:03:08,648 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-02 12:03:09,924 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-02 12:03:12,369 [main] INFO Bitbatua - Selected ETH
+2021-09-02 12:03:12,554 [main] INFO Bitbatua - Successfully ETH Wallets Created
+2021-09-02 12:03:26,198 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-02 12:03:27,573 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-02 12:03:28,861 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-02 12:03:31,300 [main] INFO Bitbatua - Selected INR
+2021-09-02 12:03:31,487 [main] INFO Bitbatua - Successfully INR Wallets Created
+2021-09-02 12:03:44,110 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-02 12:03:45,523 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-02 12:03:46,801 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-02 12:04:03,108 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-02 12:04:04,897 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-02 12:04:06,162 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-02 12:04:08,608 [main] INFO Bitbatua - Selected USDT
+2021-09-02 12:04:08,800 [main] INFO Bitbatua - Successfully USDT Wallets Created
+2021-09-02 13:23:38,724 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 13:23:42,468 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 13:23:45,061 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 13:23:46,395 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 13:23:48,950 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 13:23:50,392 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 13:23:51,970 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 13:23:54,972 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 13:23:58,635 [main] INFO Bitbatua - Entered Goa;l Ammount
+2021-09-02 13:26:03,733 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 13:26:07,544 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 13:26:10,192 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 13:26:11,562 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 13:26:14,131 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 13:26:15,583 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 13:26:17,153 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 13:26:20,151 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 13:26:23,809 [main] INFO Bitbatua - Entered Goa;l Ammount
+2021-09-02 14:17:38,821 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:17:42,958 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:17:45,639 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:17:46,973 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:17:49,496 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:17:50,957 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:17:52,522 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:17:55,508 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:17:59,166 [main] INFO Bitbatua - Entered Goa;l Ammount
+2021-09-02 14:21:02,288 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:21:05,849 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:21:08,470 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:21:09,845 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:21:12,369 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:21:13,813 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:21:15,384 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:21:18,346 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:21:22,077 [main] INFO Bitbatua - Entered Goa;l Ammount
+2021-09-02 14:23:09,412 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:23:13,353 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:23:16,008 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:23:17,353 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:23:19,886 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:23:21,339 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:23:22,987 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:23:25,965 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:23:29,622 [main] INFO Bitbatua - Entered Goa;l Ammount
+2021-09-02 14:41:01,827 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:41:05,273 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:41:07,935 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:41:09,334 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:41:11,863 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:41:13,316 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:41:14,952 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:41:17,977 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:41:21,629 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 14:41:29,405 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 14:41:32,745 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 14:41:42,832 [main] INFO Bitbatua - Description Entered.
+2021-09-02 14:45:03,116 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:45:06,690 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:45:09,282 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:45:10,628 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:45:13,162 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:45:14,613 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:45:16,186 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:45:19,195 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:45:22,856 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 14:45:30,536 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 14:45:33,945 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 14:45:46,011 [main] INFO Bitbatua - Description Entered.
+2021-09-02 14:47:03,115 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:47:06,778 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:47:09,397 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:47:10,752 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:47:13,282 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:47:14,727 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:47:16,305 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:47:19,293 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:47:22,927 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 14:47:30,552 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 14:47:33,930 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 14:47:38,257 [main] INFO Bitbatua - Description Entered.
+2021-09-02 14:54:21,120 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 14:54:25,036 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 14:54:27,630 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 14:54:28,999 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 14:54:31,519 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 14:54:32,959 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 14:54:34,510 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 14:54:37,476 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 14:54:41,153 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 14:54:48,844 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 14:54:52,221 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 14:54:56,555 [main] INFO Bitbatua - Description Entered.
+2021-09-02 15:01:21,863 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 15:01:25,491 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 15:01:28,070 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 15:01:29,432 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 15:01:31,937 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 15:01:33,375 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 15:01:34,966 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 15:01:36,169 [main] INFO Bitbatua - First Step Completed
+2021-09-02 15:01:37,964 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 15:01:41,611 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 15:01:49,285 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 15:01:53,027 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 15:01:57,342 [main] INFO Bitbatua - Description Entered.
+2021-09-02 15:02:00,596 [main] INFO Bitbatua - Second Step Completed
+2021-09-02 15:06:51,128 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 15:06:55,210 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 15:06:57,801 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 15:06:59,165 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 15:07:01,718 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 15:07:03,184 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 15:07:04,820 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 15:07:06,024 [main] INFO Bitbatua - First Step Completed
+2021-09-02 15:07:07,883 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 15:07:11,548 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 15:07:19,237 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 15:07:22,632 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 15:07:26,963 [main] INFO Bitbatua - Description Entered.
+2021-09-02 15:07:30,241 [main] INFO Bitbatua - Second Step Completed
+2021-09-02 15:07:32,425 [main] INFO Bitbatua - Image Upload Open
+2021-09-02 15:10:28,610 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 15:10:33,532 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 15:10:36,213 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 15:10:37,626 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 15:10:40,226 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 15:10:41,730 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 15:10:43,534 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 15:10:44,825 [main] INFO Bitbatua - First Step Completed
+2021-09-02 15:10:46,700 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 15:10:50,386 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 15:10:58,304 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 15:11:01,736 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 15:11:06,199 [main] INFO Bitbatua - Description Entered.
+2021-09-02 15:11:09,468 [main] INFO Bitbatua - Second Step Completed
+2021-09-02 15:11:11,645 [main] INFO Bitbatua - Image Upload Open
+2021-09-02 15:12:16,594 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 15:12:20,109 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 15:12:22,728 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 15:12:24,084 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 15:12:26,593 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 15:12:28,025 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 15:12:29,600 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 15:12:30,793 [main] INFO Bitbatua - First Step Completed
+2021-09-02 15:12:32,562 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 15:12:36,222 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 15:12:43,893 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 15:12:47,263 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 15:12:51,597 [main] INFO Bitbatua - Description Entered.
+2021-09-02 15:12:54,864 [main] INFO Bitbatua - Second Step Completed
+2021-09-02 15:12:57,049 [main] INFO Bitbatua - Image Upload Open
+2021-09-02 15:18:23,166 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 15:18:27,191 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 15:18:29,805 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-02 15:18:31,187 [main] INFO Bitbatua - Entered Patient Name
+2021-09-02 15:18:33,706 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-02 15:18:35,141 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-02 15:18:36,720 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-02 15:18:37,928 [main] INFO Bitbatua - First Step Completed
+2021-09-02 15:18:39,733 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-02 15:18:43,388 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-02 15:18:51,048 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-02 15:18:54,402 [main] INFO Bitbatua - Hastag Entered.
+2021-09-02 15:18:58,770 [main] INFO Bitbatua - Description Entered.
+2021-09-02 15:19:02,031 [main] INFO Bitbatua - Second Step Completed
+2021-09-02 15:19:04,204 [main] INFO Bitbatua - Image Upload Open
+2021-09-02 15:19:19,422 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-02 15:19:19,613 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-02 16:45:13,916 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 16:45:17,765 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 16:46:44,093 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-02 16:46:48,113 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-02 16:46:50,702 [main] INFO Bitbatua - Select NGO As Cause
+2021-09-02 16:46:52,094 [main] INFO Bitbatua - Entered NGO/Charity Name
+2021-09-02 16:46:54,595 [main] INFO Bitbatua - Selected USA As Country Name
+2021-09-02 16:46:55,922 [main] INFO Bitbatua - Entered website Name
+2021-09-02 16:46:57,125 [main] INFO Bitbatua - First Step Completed
+2021-09-06 09:43:41,032 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 09:43:44,892 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 09:43:47,508 [main] INFO Bitbatua - Select NGO As Cause
+2021-09-06 09:43:48,972 [main] INFO Bitbatua - Entered NGO/Charity Name
+2021-09-06 09:43:51,469 [main] INFO Bitbatua - Selected USA As Country Name
+2021-09-06 09:43:52,984 [main] INFO Bitbatua - Entered website Name
+2021-09-06 09:43:54,163 [main] INFO Bitbatua - First Step Completed
+2021-09-06 09:49:15,345 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 09:49:19,420 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 09:49:22,043 [main] INFO Bitbatua - Select NGO As Cause
+2021-09-06 09:49:23,425 [main] INFO Bitbatua - Entered NGO/Charity Name
+2021-09-06 09:49:25,933 [main] INFO Bitbatua - Selected USA As Country Name
+2021-09-06 09:49:27,284 [main] INFO Bitbatua - Entered website Name
+2021-09-06 09:54:48,174 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 09:54:52,123 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 09:54:54,745 [main] INFO Bitbatua - Select NGO As Cause
+2021-09-06 09:54:56,113 [main] INFO Bitbatua - Entered NGO/Charity Name
+2021-09-06 09:54:58,617 [main] INFO Bitbatua - Selected USA As Country Name
+2021-09-06 09:54:59,954 [main] INFO Bitbatua - Entered website Name
+2021-09-06 09:55:01,160 [main] INFO Bitbatua - First Step Completed
+2021-09-06 09:55:03,088 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-06 09:55:06,749 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-06 09:55:15,089 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-06 09:55:18,497 [main] INFO Bitbatua - Hastag Entered.
+2021-09-06 09:55:23,144 [main] INFO Bitbatua - Description Entered.
+2021-09-06 09:55:26,406 [main] INFO Bitbatua - Second Step Completed
+2021-09-06 09:55:28,579 [main] INFO Bitbatua - Image Upload Open
+2021-09-06 09:55:43,869 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-06 09:55:46,145 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-06 10:03:09,201 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:03:13,052 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:03:15,652 [main] INFO Bitbatua - Select NGO As Cause
+2021-09-06 10:03:17,047 [main] INFO Bitbatua - Entered NGO/Charity Name
+2021-09-06 10:03:19,543 [main] INFO Bitbatua - Selected USA As Country Name
+2021-09-06 10:03:20,876 [main] INFO Bitbatua - Entered website Name
+2021-09-06 10:03:22,081 [main] INFO Bitbatua - First Step Completed
+2021-09-06 10:03:23,677 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-06 10:03:27,345 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-06 10:03:35,113 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-06 10:03:38,553 [main] INFO Bitbatua - Hastag Entered.
+2021-09-06 10:03:42,728 [main] INFO Bitbatua - Description Entered.
+2021-09-06 10:03:45,972 [main] INFO Bitbatua - Second Step Completed
+2021-09-06 10:03:48,154 [main] INFO Bitbatua - Image Upload Open
+2021-09-06 10:04:04,349 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-06 10:04:04,550 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-06 10:06:19,224 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:06:23,148 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:10:09,106 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:10:13,079 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:10:15,668 [main] INFO Bitbatua - Select Other As Cause
+2021-09-06 10:10:17,006 [main] INFO Bitbatua - Entered Patient Name
+2021-09-06 10:10:19,522 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-06 10:22:10,638 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:22:14,721 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:22:17,317 [main] INFO Bitbatua - Select Other As Cause
+2021-09-06 10:22:18,643 [main] INFO Bitbatua - Entered Other Name
+2021-09-06 10:22:21,157 [main] INFO Bitbatua - Selected AfGanistan As Country Name
+2021-09-06 10:22:22,369 [main] INFO Bitbatua - First Step Completed
+2021-09-06 10:22:24,067 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-06 10:22:27,714 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-06 10:22:35,504 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-06 10:22:38,931 [main] INFO Bitbatua - Hastag Entered.
+2021-09-06 10:22:43,615 [main] INFO Bitbatua - Description Entered.
+2021-09-06 10:22:46,881 [main] INFO Bitbatua - Second Step Completed
+2021-09-06 10:22:49,063 [main] INFO Bitbatua - Image Upload Open
+2021-09-06 10:23:05,227 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-06 10:23:05,444 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-06 10:27:21,439 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:27:25,574 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:27:28,198 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-06 10:27:29,554 [main] INFO Bitbatua - Entered Patient Name
+2021-09-06 10:27:32,070 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-06 10:27:33,543 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-06 10:27:35,181 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-06 10:27:36,393 [main] INFO Bitbatua - First Step Completed
+2021-09-06 10:27:38,341 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-06 10:27:42,023 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-06 10:27:49,824 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-06 10:27:53,220 [main] INFO Bitbatua - Hastag Entered.
+2021-09-06 10:27:57,851 [main] INFO Bitbatua - Description Entered.
+2021-09-06 10:28:01,093 [main] INFO Bitbatua - Second Step Completed
+2021-09-06 10:28:03,260 [main] INFO Bitbatua - Image Upload Open
+2021-09-06 10:28:18,627 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-06 10:28:18,826 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-06 10:28:33,074 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:28:37,305 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:28:39,896 [main] INFO Bitbatua - Select NGO As Cause
+2021-09-06 10:28:41,278 [main] INFO Bitbatua - Entered NGO/Charity Name
+2021-09-06 10:28:43,774 [main] INFO Bitbatua - Selected USA As Country Name
+2021-09-06 10:28:45,110 [main] INFO Bitbatua - Entered website Name
+2021-09-06 10:28:46,306 [main] INFO Bitbatua - First Step Completed
+2021-09-06 10:28:47,917 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-06 10:28:51,581 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-06 10:28:55,560 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-06 10:28:58,943 [main] INFO Bitbatua - Hastag Entered.
+2021-09-06 10:29:03,029 [main] INFO Bitbatua - Description Entered.
+2021-09-06 10:29:06,306 [main] INFO Bitbatua - Second Step Completed
+2021-09-06 10:29:08,492 [main] INFO Bitbatua - Image Upload Open
+2021-09-06 10:29:23,976 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-06 10:29:24,171 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-06 10:29:38,548 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-06 10:29:42,737 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-06 10:29:45,327 [main] INFO Bitbatua - Select Other As Cause
+2021-09-06 10:29:46,657 [main] INFO Bitbatua - Entered Other Name
+2021-09-06 10:29:49,176 [main] INFO Bitbatua - Selected AfGanistan As Country Name
+2021-09-06 10:29:50,376 [main] INFO Bitbatua - First Step Completed
+2021-09-06 10:29:52,060 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-06 10:29:55,699 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-06 10:29:59,716 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-06 10:30:03,094 [main] INFO Bitbatua - Hastag Entered.
+2021-09-06 10:30:07,738 [main] INFO Bitbatua - Description Entered.
+2021-09-06 10:30:10,969 [main] INFO Bitbatua - Second Step Completed
+2021-09-06 10:30:13,155 [main] INFO Bitbatua - Image Upload Open
+2021-09-06 10:30:28,516 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-06 10:30:28,707 [main] INFO Bitbatua - Successfully Created Fundaraiser
+2021-09-06 11:22:19,407 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:22:22,859 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:22:24,281 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:24:32,597 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:24:34,436 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:27:19,917 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:27:22,181 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:28:59,850 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:29:03,785 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:29:06,188 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:31:43,808 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:31:47,487 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:31:48,885 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:32:37,875 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:32:41,782 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:32:43,169 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:33:27,573 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:33:31,565 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:33:34,943 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:35:19,968 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:35:23,694 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:35:27,120 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:36:32,791 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:36:36,862 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:36:40,263 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:36:42,498 [main] INFO Bitbatua - Copy Address
+2021-09-06 11:39:18,443 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:39:22,278 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:39:25,683 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:39:27,967 [main] INFO Bitbatua - Copy Address
+2021-09-06 11:39:29,221 [main] INFO Bitbatua - Back to Wallets List
+2021-09-06 11:39:30,853 [main] INFO Bitbatua - Entered PrakashBTC In Search Box
+2021-09-06 11:40:47,027 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:40:50,888 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:40:54,156 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:41:39,282 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:41:42,943 [main] INFO Bitbatua - Entered Prakashhhh In Search Box
+2021-09-06 11:41:46,221 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 11:43:46,460 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 11:43:50,448 [main] INFO Bitbatua - Entered Prakashhh In Search Box
+2021-09-06 11:43:53,708 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 12:01:51,164 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 12:01:55,101 [main] INFO Bitbatua - Entered Prakashhh In Search Box
+2021-09-06 12:01:58,505 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 12:02:00,734 [main] INFO Bitbatua - Copy Address
+2021-09-06 12:02:02,002 [main] INFO Bitbatua - Back to Wallets List
+2021-09-06 12:02:05,463 [main] INFO Bitbatua - Entered PrakashBTC In Search Box
+2021-09-06 12:02:07,795 [main] INFO Bitbatua - Click On Withdraw Button
+2021-09-06 12:02:09,534 [main] INFO Bitbatua - Entered Address
+2021-09-06 12:02:10,839 [main] INFO Bitbatua - Entered Ammount
+2021-09-06 12:02:12,090 [main] INFO Bitbatua - Click On Send Button
+2021-09-06 12:18:18,848 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 12:18:23,018 [main] INFO Bitbatua - Entered RamETH In Search Box
+2021-09-06 12:18:26,495 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-06 12:18:28,927 [main] INFO Bitbatua - Copy Address
+2021-09-06 12:18:30,238 [main] INFO Bitbatua - Back to Wallets List
+2021-09-06 12:18:33,779 [main] INFO Bitbatua - Entered Prakash ETH In Search Box
+2021-09-06 12:18:36,141 [main] INFO Bitbatua - Click On Withdraw Button
+2021-09-06 12:18:39,511 [main] INFO Bitbatua - Entered Address
+2021-09-06 12:18:41,813 [main] INFO Bitbatua - Entered Ammount
+2021-09-06 12:18:43,137 [main] INFO Bitbatua - Click On Send Button
+2021-09-06 12:42:24,152 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 12:42:28,194 [main] INFO Bitbatua - Entered Prakashhh In Search Box
+2021-09-06 12:42:31,624 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-06 12:42:35,516 [main] INFO Bitbatua - Entered Address
+2021-09-06 12:42:38,840 [main] INFO Bitbatua - Entered Ammount
+2021-09-06 12:42:40,076 [main] INFO Bitbatua - Click On Send Button
+2021-09-06 12:45:56,671 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 12:46:00,435 [main] INFO Bitbatua - Entered Prakashhh In Search Box
+2021-09-06 12:46:03,855 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-06 12:46:07,761 [main] INFO Bitbatua - Entered Address
+2021-09-06 12:46:11,079 [main] INFO Bitbatua - Entered Ammount
+2021-09-06 12:46:12,323 [main] INFO Bitbatua - Click On Send Button
+2021-09-06 12:46:24,928 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-06 12:46:29,029 [main] INFO Bitbatua - Entered RamETH In Search Box
+2021-09-06 12:46:32,436 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-06 12:46:36,347 [main] INFO Bitbatua - Entered Address
+2021-09-06 12:46:39,654 [main] INFO Bitbatua - Entered Ammount
+2021-09-06 12:46:40,884 [main] INFO Bitbatua - Click On Send Button
+2021-09-08 13:00:40,480 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-08 13:00:45,867 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-08 13:00:48,554 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-08 13:00:49,935 [main] INFO Bitbatua - Entered Patient Name
+2021-09-08 13:00:52,463 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-08 13:00:53,968 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-08 13:00:55,635 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-08 13:00:56,838 [main] INFO Bitbatua - First Step Completed
+2021-09-08 13:00:56,857 [main] INFO Bitbatua - 1st Step Completed
+2021-09-08 13:00:58,754 [main] INFO Bitbatua - Entered Fundaraiser Details
+2021-09-08 13:01:02,408 [main] INFO Bitbatua - Entered Goal Ammount
+2021-09-08 13:01:10,589 [main] INFO Bitbatua - Fundaraiser Ending Date Selected
+2021-09-08 13:01:13,978 [main] INFO Bitbatua - Hastag Entered.
+2021-09-08 13:01:18,632 [main] INFO Bitbatua - Description Entered.
+2021-09-08 13:01:21,896 [main] INFO Bitbatua - Second Step Completed
+2021-09-08 13:01:23,908 [main] INFO Bitbatua - 2nd Step Completed
+2021-09-08 13:01:24,085 [main] INFO Bitbatua - Image Upload Open
+2021-09-08 13:01:39,381 [main] INFO Bitbatua - Successfully Image Upload
+2021-09-08 13:05:20,396 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-08 13:05:26,032 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-08 13:05:28,673 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-08 13:05:30,151 [main] INFO Bitbatua - Entered Patient Name
+2021-09-08 13:05:32,682 [main] INFO Bitbatua - Selected India As Country Name
+2021-09-08 13:05:34,156 [main] INFO Bitbatua - Entered Hospital Name
+2021-09-08 13:05:35,811 [main] INFO Bitbatua - Entered Hospital Address
+2021-09-08 13:05:37,016 [main] INFO Bitbatua - First Step Completed
+2021-09-08 14:54:24,038 [main] INFO Bitbatua - URL is opened
+2021-09-08 14:54:24,484 [main] INFO Bitbatua - Clicked On Login
+2021-09-08 14:54:24,930 [main] INFO Bitbatua - Entered username
+2021-09-08 14:54:25,358 [main] INFO Bitbatua - Entered password
+2021-09-08 14:57:00,357 [main] INFO Bitbatua - URL is opened
+2021-09-08 14:57:00,791 [main] INFO Bitbatua - Clicked On Login
+2021-09-08 14:57:01,230 [main] INFO Bitbatua - Entered username
+2021-09-08 14:57:01,670 [main] INFO Bitbatua - Entered password
+2021-09-08 14:58:41,004 [main] INFO Bitbatua - URL is opened
+2021-09-08 14:58:41,462 [main] INFO Bitbatua - Clicked On Login
+2021-09-08 14:58:41,897 [main] INFO Bitbatua - Entered username
+2021-09-08 14:58:42,240 [main] INFO Bitbatua - Entered password
+2021-09-08 14:59:14,407 [main] INFO Bitbatua - URL is opened
+2021-09-08 14:59:14,836 [main] INFO Bitbatua - Clicked On Login
+2021-09-08 14:59:15,292 [main] INFO Bitbatua - Entered username
+2021-09-08 14:59:15,786 [main] INFO Bitbatua - Entered password
+2021-09-08 14:59:52,247 [main] INFO Bitbatua - URL is opened
+2021-09-08 14:59:52,687 [main] INFO Bitbatua - Clicked On Login
+2021-09-08 14:59:53,142 [main] INFO Bitbatua - Entered username
+2021-09-08 14:59:53,585 [main] INFO Bitbatua - Entered password
+2021-09-08 14:59:56,858 [main] INFO Bitbatua - Login test passed
+2021-09-10 17:22:38,309 [main] INFO Bitbatua - URL is opened
+2021-09-10 17:22:38,767 [main] INFO Bitbatua - Clicked On Login
+2021-09-10 17:22:39,234 [main] INFO Bitbatua - Entered username
+2021-09-10 17:22:39,996 [main] INFO Bitbatua - Entered password
+2021-09-10 17:22:43,231 [main] INFO Bitbatua - Login test passed
+2021-09-10 17:22:51,184 [main] INFO Bitbatua - URL is opened
+2021-09-10 17:22:51,778 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-10 17:22:52,138 [main] INFO Bitbatua - Entered Full Name
+2021-09-10 17:22:52,831 [main] INFO Bitbatua - Entered Email Address
+2021-09-10 17:22:55,115 [main] INFO Bitbatua - Entered Password
+2021-09-10 17:22:55,319 [main] INFO Bitbatua - Click on Checkbox
+2021-09-10 17:22:55,533 [main] INFO Bitbatua - Click On SignUP
+2021-09-10 17:22:58,538 [main] INFO Bitbatua - validation started....
+2021-09-10 17:22:58,551 [main] INFO Bitbatua - test case passed....
+2021-09-10 17:23:43,736 [main] INFO Bitbatua - URL is opened
+2021-09-10 17:23:44,203 [main] INFO Bitbatua - Clicked On Login
+2021-09-10 17:23:44,691 [main] INFO Bitbatua - Entered username
+2021-09-10 17:23:45,311 [main] INFO Bitbatua - Entered password
+2021-09-10 17:23:48,603 [main] INFO Bitbatua - Login test passed
+2021-09-10 17:23:56,209 [main] INFO Bitbatua - URL is opened
+2021-09-10 17:23:56,642 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-10 17:23:57,042 [main] INFO Bitbatua - Entered Full Name
+2021-09-10 17:23:57,515 [main] INFO Bitbatua - Entered Email Address
+2021-09-10 17:23:59,877 [main] INFO Bitbatua - Entered Password
+2021-09-10 17:24:00,178 [main] INFO Bitbatua - Click on Checkbox
+2021-09-10 17:24:00,477 [main] INFO Bitbatua - Click On SignUP
+2021-09-10 17:24:03,478 [main] INFO Bitbatua - validation started....
+2021-09-10 17:24:03,492 [main] INFO Bitbatua - test case passed....
+2021-09-10 17:25:47,140 [main] INFO Bitbatua - URL is opened
+2021-09-10 17:25:47,593 [main] INFO Bitbatua - Clicked On Login
+2021-09-10 17:25:48,055 [main] INFO Bitbatua - Entered username
+2021-09-10 17:25:48,479 [main] INFO Bitbatua - Entered password
+2021-09-10 17:25:51,864 [main] INFO Bitbatua - Login test passed
+2021-09-10 17:25:58,819 [main] INFO Bitbatua - URL is opened
+2021-09-10 17:25:59,193 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-10 17:25:59,534 [main] INFO Bitbatua - Entered Full Name
+2021-09-10 17:25:59,955 [main] INFO Bitbatua - Entered Email Address
+2021-09-10 17:26:02,242 [main] INFO Bitbatua - Entered Password
+2021-09-10 17:26:02,446 [main] INFO Bitbatua - Click on Checkbox
+2021-09-10 17:26:02,671 [main] INFO Bitbatua - Click On SignUP
+2021-09-10 17:26:05,673 [main] INFO Bitbatua - validation started....
+2021-09-10 17:26:05,686 [main] INFO Bitbatua - test case failed....
+2021-09-13 10:58:27,313 [main] INFO Bitbatua - URL is opened
+2021-09-13 10:58:27,777 [main] INFO Bitbatua - Clicked On Login
+2021-09-13 10:58:28,213 [main] INFO Bitbatua - Entered username
+2021-09-13 10:58:28,616 [main] INFO Bitbatua - Entered password
+2021-09-13 10:58:32,077 [main] INFO Bitbatua - Login test passed
+2021-09-13 10:59:36,164 [main] INFO Bitbatua - URL is opened
+2021-09-13 10:59:36,615 [main] INFO Bitbatua - Clicked On Login
+2021-09-13 10:59:37,082 [main] INFO Bitbatua - Entered username
+2021-09-13 10:59:37,839 [main] INFO Bitbatua - Entered password
+2021-09-13 10:59:41,073 [main] INFO Bitbatua - Login test passed
+2021-09-13 10:59:48,496 [main] INFO Bitbatua - URL is opened
+2021-09-13 10:59:48,886 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-13 10:59:49,205 [main] INFO Bitbatua - Entered Full Name
+2021-09-13 10:59:49,518 [main] INFO Bitbatua - Entered Email Address
+2021-09-13 10:59:51,817 [main] INFO Bitbatua - Entered Password
+2021-09-13 10:59:52,006 [main] INFO Bitbatua - Click on Checkbox
+2021-09-13 10:59:52,204 [main] INFO Bitbatua - Click On SignUP
+2021-09-13 10:59:55,228 [main] INFO Bitbatua - validation started....
+2021-09-13 10:59:55,230 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:04:33,537 [main] INFO Bitbatua - URL is opened
+2021-09-13 11:04:33,979 [main] INFO Bitbatua - Clicked On Login
+2021-09-13 11:04:34,418 [main] INFO Bitbatua - Entered username
+2021-09-13 11:04:34,850 [main] INFO Bitbatua - Entered password
+2021-09-13 11:04:46,214 [main] INFO Bitbatua - URL is opened
+2021-09-13 11:04:46,594 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-13 11:04:46,911 [main] INFO Bitbatua - Entered Full Name
+2021-09-13 11:04:47,238 [main] INFO Bitbatua - Entered Email Address
+2021-09-13 11:04:49,507 [main] INFO Bitbatua - Entered Password
+2021-09-13 11:04:49,712 [main] INFO Bitbatua - Click on Checkbox
+2021-09-13 11:04:49,911 [main] INFO Bitbatua - Click On SignUP
+2021-09-13 11:04:52,932 [main] INFO Bitbatua - validation started....
+2021-09-13 11:04:52,946 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:08:07,227 [main] INFO Bitbatua - URL is opened
+2021-09-13 11:08:07,659 [main] INFO Bitbatua - Clicked On Login
+2021-09-13 11:08:08,102 [main] INFO Bitbatua - Entered username
+2021-09-13 11:08:08,544 [main] INFO Bitbatua - Entered password
+2021-09-13 11:08:11,883 [main] INFO Bitbatua - Login test passed
+2021-09-13 11:08:19,180 [main] INFO Bitbatua - URL is opened
+2021-09-13 11:08:19,558 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-13 11:08:19,887 [main] INFO Bitbatua - Entered Full Name
+2021-09-13 11:08:20,235 [main] INFO Bitbatua - Entered Email Address
+2021-09-13 11:08:22,552 [main] INFO Bitbatua - Entered Password
+2021-09-13 11:08:22,813 [main] INFO Bitbatua - Click on Checkbox
+2021-09-13 11:08:23,022 [main] INFO Bitbatua - Click On SignUP
+2021-09-13 11:08:26,029 [main] INFO Bitbatua - validation started....
+2021-09-13 11:08:26,032 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:08:38,540 [main] INFO Bitbatua - Clicked On Create Business Account
+2021-09-13 11:08:38,900 [main] INFO Bitbatua - Entered Business Name
+2021-09-13 11:08:39,338 [main] INFO Bitbatua - Entered Email Address
+2021-09-13 11:08:39,902 [main] INFO Bitbatua - Entered Address
+2021-09-13 11:08:42,331 [main] INFO Bitbatua - Click on NGO as Nature of Business
+2021-09-13 11:08:46,864 [main] INFO Bitbatua - Click on India as Country
+2021-09-13 11:08:49,572 [main] INFO Bitbatua - Entered Website Name
+2021-09-13 11:08:49,738 [main] INFO Bitbatua - Select On Checkbox
+2021-09-13 11:08:49,912 [main] INFO Bitbatua - Click On Add Account Button
+2021-09-13 11:08:54,913 [main] INFO Bitbatua - validation started....
+2021-09-13 11:08:54,924 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:20:45,825 [main] INFO Bitbatua - URL is opened
+2021-09-13 11:20:46,252 [main] INFO Bitbatua - Clicked On Login
+2021-09-13 11:20:46,688 [main] INFO Bitbatua - Entered username
+2021-09-13 11:20:47,098 [main] INFO Bitbatua - Entered password
+2021-09-13 11:20:50,522 [main] INFO Bitbatua - Login test passed
+2021-09-13 11:20:57,613 [main] INFO Bitbatua - URL is opened
+2021-09-13 11:20:57,981 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-13 11:20:58,317 [main] INFO Bitbatua - Entered Full Name
+2021-09-13 11:20:58,664 [main] INFO Bitbatua - Entered Email Address
+2021-09-13 11:21:00,928 [main] INFO Bitbatua - Entered Password
+2021-09-13 11:21:01,126 [main] INFO Bitbatua - Click on Checkbox
+2021-09-13 11:21:01,363 [main] INFO Bitbatua - Click On SignUP
+2021-09-13 11:21:04,376 [main] INFO Bitbatua - validation started....
+2021-09-13 11:21:04,386 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:21:16,880 [main] INFO Bitbatua - Clicked On Create Business Account
+2021-09-13 11:21:17,411 [main] INFO Bitbatua - Entered Business Name
+2021-09-13 11:21:17,863 [main] INFO Bitbatua - Entered Email Address
+2021-09-13 11:21:18,453 [main] INFO Bitbatua - Entered Address
+2021-09-13 11:21:20,837 [main] INFO Bitbatua - Click on NGO as Nature of Business
+2021-09-13 11:21:25,373 [main] INFO Bitbatua - Click on India as Country
+2021-09-13 11:21:28,068 [main] INFO Bitbatua - Entered Website Name
+2021-09-13 11:21:28,247 [main] INFO Bitbatua - Select On Checkbox
+2021-09-13 11:21:28,422 [main] INFO Bitbatua - Click On Add Account Button
+2021-09-13 11:21:33,429 [main] INFO Bitbatua - validation started....
+2021-09-13 11:21:33,447 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:22:09,630 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:29:38,751 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:30:35,691 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:30:37,209 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:30:38,495 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:30:40,937 [main] INFO Bitbatua - Selected BTC
+2021-09-13 11:30:41,134 [main] INFO Bitbatua - Successfully BTC Wallets Created
+2021-09-13 11:30:44,142 [main] INFO Bitbatua - validation started....
+2021-09-13 11:30:44,165 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:35:49,010 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:35:50,869 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:35:52,119 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:35:54,589 [main] INFO Bitbatua - Selected BTC
+2021-09-13 11:35:54,765 [main] INFO Bitbatua - Successfully BTC Wallets Created
+2021-09-13 11:35:57,772 [main] INFO Bitbatua - validation started....
+2021-09-13 11:35:57,793 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:36:11,174 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:36:13,053 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:36:14,305 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:36:16,736 [main] INFO Bitbatua - Selected ETH
+2021-09-13 11:36:16,925 [main] INFO Bitbatua - Successfully ETH Wallets Created
+2021-09-13 11:36:19,937 [main] INFO Bitbatua - validation started....
+2021-09-13 11:36:19,953 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:36:33,824 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:36:35,831 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:36:37,082 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:36:39,549 [main] INFO Bitbatua - Selected INR
+2021-09-13 11:36:39,729 [main] INFO Bitbatua - Successfully INR Wallets Created
+2021-09-13 11:36:41,739 [main] INFO Bitbatua - validation started....
+2021-09-13 11:36:41,751 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:36:55,498 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:36:57,193 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:36:58,463 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:37:00,901 [main] INFO Bitbatua - Selected USD
+2021-09-13 11:37:01,088 [main] INFO Bitbatua - Successfully USD Wallets Created
+2021-09-13 11:37:03,099 [main] INFO Bitbatua - validation started....
+2021-09-13 11:37:03,116 [main] INFO Bitbatua - test case passed....
+2021-09-13 11:37:16,379 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:37:18,277 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:37:19,558 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:41:00,786 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:41:03,284 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:41:04,566 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:43:13,366 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 11:43:15,571 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 11:43:16,847 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 11:43:19,304 [main] INFO Bitbatua - Selected USDT
+2021-09-13 11:43:19,506 [main] INFO Bitbatua - Successfully USDT Wallets Created
+2021-09-13 11:43:22,515 [main] INFO Bitbatua - validation started....
+2021-09-13 11:43:22,535 [main] INFO Bitbatua - test case passed....
+2021-09-13 12:03:50,368 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-13 12:03:52,137 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-13 12:03:53,401 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-13 12:03:55,825 [main] INFO Bitbatua - Selected USDT
+2021-09-13 12:03:56,004 [main] INFO Bitbatua - Successfully USDT Wallets Created
+2021-09-13 12:03:59,020 [main] INFO Bitbatua - validation started....
+2021-09-14 17:52:39,426 [main] INFO Bitbatua - URL is opened
+2021-09-14 17:52:39,883 [main] INFO Bitbatua - Clicked On Login
+2021-09-14 17:52:40,309 [main] INFO Bitbatua - Entered username
+2021-09-14 17:52:40,639 [main] INFO Bitbatua - Entered password
+2021-09-14 17:52:43,938 [main] INFO Bitbatua - Login test passed
+2021-09-14 17:54:23,582 [main] INFO Bitbatua - URL is opened
+2021-09-14 17:54:24,252 [main] INFO Bitbatua - Clicked On Login
+2021-09-14 17:54:24,423 [main] INFO Bitbatua - Entered username
+2021-09-14 17:54:24,525 [main] INFO Bitbatua - Entered password
+2021-09-14 17:54:27,861 [main] INFO Bitbatua - Login test passed
+2021-09-14 18:12:41,543 [main] INFO Bitbatua - URL is opened
+2021-09-14 18:12:42,009 [main] INFO Bitbatua - Clicked On Login
+2021-09-14 18:12:42,457 [main] INFO Bitbatua - Entered username
+2021-09-14 18:12:43,141 [main] INFO Bitbatua - Entered password
+2021-09-14 18:12:46,387 [main] INFO Bitbatua - Login test passed
+2021-09-14 18:13:21,922 [main] INFO Bitbatua - URL is opened
+2021-09-14 18:13:22,612 [main] INFO Bitbatua - Clicked On Login
+2021-09-14 18:13:22,805 [main] INFO Bitbatua - Entered username
+2021-09-14 18:13:22,980 [main] INFO Bitbatua - Entered password
+2021-09-14 18:13:26,276 [main] INFO Bitbatua - Login test passed
+2021-09-15 11:01:36,724 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:01:40,545 [main] INFO Bitbatua - Entered RamETH In Search Box
+2021-09-15 11:01:44,194 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-15 11:01:48,421 [main] INFO Bitbatua - Entered Address
+2021-09-15 11:01:51,668 [main] INFO Bitbatua - Entered Ammount
+2021-09-15 11:01:53,056 [main] INFO Bitbatua - Click On Send Button
+2021-09-15 11:06:15,715 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:06:19,785 [main] INFO Bitbatua - Entered RamETH In Search Box
+2021-09-15 11:06:23,476 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-15 11:06:27,621 [main] INFO Bitbatua - Entered Address
+2021-09-15 11:06:30,843 [main] INFO Bitbatua - Entered Ammount
+2021-09-15 11:06:32,227 [main] INFO Bitbatua - Click On Send Button
+2021-09-15 11:34:27,320 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:34:30,768 [main] INFO Bitbatua - Entered RamETH In Search Box
+2021-09-15 11:34:34,441 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-15 11:40:39,126 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:40:42,508 [main] INFO Bitbatua - Entered USDT In Search Box
+2021-09-15 11:40:46,225 [main] INFO Bitbatua - Clicking On Withdraw
+2021-09-15 11:40:50,382 [main] INFO Bitbatua - Entered Address
+2021-09-15 11:40:53,565 [main] INFO Bitbatua - Entered Ammount
+2021-09-15 11:40:54,945 [main] INFO Bitbatua - Click On Send Button
+2021-09-15 11:49:37,717 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:49:41,196 [main] INFO Bitbatua - Entered USDT In Search Box
+2021-09-15 11:49:44,998 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-15 11:49:47,406 [main] INFO Bitbatua - Copy Address
+2021-09-15 11:49:48,891 [main] INFO Bitbatua - Back to Wallets List
+2021-09-15 11:49:52,857 [main] INFO Bitbatua - Entered PrakashUSDT In Search Box
+2021-09-15 11:49:55,528 [main] INFO Bitbatua - Click On Withdraw Button
+2021-09-15 11:49:58,773 [main] INFO Bitbatua - Entered Address
+2021-09-15 11:50:00,933 [main] INFO Bitbatua - Entered Ammount
+2021-09-15 11:50:02,287 [main] INFO Bitbatua - Click On Send Button
+2021-09-15 11:50:42,435 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:50:45,732 [main] INFO Bitbatua - Entered USDT In Search Box
+2021-09-15 11:50:49,552 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-15 11:50:52,054 [main] INFO Bitbatua - Copy Address
+2021-09-15 11:55:18,548 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 11:55:23,716 [main] INFO Bitbatua - Entered USDT In Search Box
+2021-09-15 11:55:27,090 [main] INFO Bitbatua - Clicking On Deposit
+2021-09-15 11:55:29,296 [main] INFO Bitbatua - Copy Address
+2021-09-15 11:55:30,585 [main] INFO Bitbatua - Back to Wallets List
+2021-09-15 11:55:34,101 [main] INFO Bitbatua - Entered PrakashUSDT In Search Box
+2021-09-15 11:55:36,456 [main] INFO Bitbatua - Click On Withdraw Button
+2021-09-15 11:55:39,251 [main] INFO Bitbatua - Entered Address
+2021-09-15 11:55:41,510 [main] INFO Bitbatua - Entered Ammount
+2021-09-15 11:55:42,775 [main] INFO Bitbatua - Click On Send Button
+2021-09-15 12:52:11,080 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 12:52:14,666 [main] INFO Bitbatua - Entered Prakash P Nimje In Full Name
+2021-09-15 12:52:18,242 [main] INFO Bitbatua - Entered Near Trimurty Square NIT Garden,Mumbai In Address
+2021-09-15 12:52:21,621 [main] INFO Bitbatua - Entered Mumbai In city
+2021-09-15 12:52:25,018 [main] INFO Bitbatua - Entered Maharastra In State
+2021-09-15 12:52:28,418 [main] INFO Bitbatua - Entered 441802 In Zipcode
+2021-09-15 12:52:29,725 [main] INFO Bitbatua - Clicking On Combobox
+2021-09-15 12:52:30,946 [main] INFO Bitbatua - Clicking On Countery
+2021-09-15 12:52:33,182 [main] INFO Bitbatua - Clicking On Update
+2021-09-15 13:14:32,814 [main] INFO Bitbatua - Clicking On Setting
+2021-09-15 13:14:34,087 [main] INFO Bitbatua - Clicking On Change Password
+2021-09-15 13:14:35,355 [main] INFO Bitbatua - Entered Current Password
+2021-09-15 13:14:36,679 [main] INFO Bitbatua - Entered NEW Password
+2021-09-15 13:14:37,866 [main] INFO Bitbatua - Click ON Change Pass Button
+2021-09-15 14:58:02,335 [main] INFO Bitbatua - Clicking On Setting
+2021-09-15 14:58:03,660 [main] INFO Bitbatua - Clicking On CurrencySetting
+2021-09-15 14:58:04,871 [main] INFO Bitbatua - Clicking On Combobox
+2021-09-15 14:58:06,082 [main] INFO Bitbatua - Select On INR
+2021-09-15 14:58:07,274 [main] INFO Bitbatua - click On Update
+2021-09-15 15:02:27,225 [main] INFO Bitbatua - Clicking On Setting
+2021-09-15 15:02:28,525 [main] INFO Bitbatua - Clicking On CurrencySetting
+2021-09-15 15:02:29,744 [main] INFO Bitbatua - Clicking On Combobox
+2021-09-15 15:02:30,930 [main] INFO Bitbatua - Select On USD
+2021-09-15 15:02:32,114 [main] INFO Bitbatua - click On Update
+2021-09-15 15:17:36,577 [main] INFO Bitbatua - URL is opened
+2021-09-15 15:17:37,049 [main] INFO Bitbatua - Clicked On Login
+2021-09-15 15:17:37,472 [main] INFO Bitbatua - Entered username
+2021-09-15 15:17:37,851 [main] INFO Bitbatua - Entered password
+2021-09-15 15:17:41,174 [main] INFO Bitbatua - Login test passed
+2021-09-15 15:17:48,629 [main] INFO Bitbatua - URL is opened
+2021-09-15 15:17:49,015 [main] INFO Bitbatua - Clicked On SignUP
+2021-09-15 15:17:49,327 [main] INFO Bitbatua - Entered Full Name
+2021-09-15 15:17:49,674 [main] INFO Bitbatua - Entered Email Address
+2021-09-15 15:17:51,943 [main] INFO Bitbatua - Entered Password
+2021-09-15 15:17:52,141 [main] INFO Bitbatua - Click on Checkbox
+2021-09-15 15:17:52,330 [main] INFO Bitbatua - Click On SignUP
+2021-09-15 15:17:55,348 [main] INFO Bitbatua - validation started....
+2021-09-15 15:17:55,361 [main] INFO Bitbatua - test case passed....
+2021-09-15 15:18:03,076 [main] INFO Bitbatua - URL is opened
+2021-09-15 15:18:03,434 [main] INFO Bitbatua - Clicked On Login
+2021-09-15 15:18:03,738 [main] INFO Bitbatua - Clicked On Forgot Password
+2021-09-15 15:18:04,067 [main] INFO Bitbatua - Entered Email Address
+2021-09-15 15:18:04,355 [main] INFO Bitbatua - Clicked On Send OTP
+2021-09-15 15:18:16,743 [main] INFO Bitbatua - Clicked On Create Business Account
+2021-09-15 15:18:17,128 [main] INFO Bitbatua - Entered Business Name
+2021-09-15 15:18:17,578 [main] INFO Bitbatua - Entered Email Address
+2021-09-15 15:18:18,150 [main] INFO Bitbatua - Entered Address
+2021-09-15 15:18:20,551 [main] INFO Bitbatua - Click on NGO as Nature of Business
+2021-09-15 15:18:25,065 [main] INFO Bitbatua - Click on India as Country
+2021-09-15 15:18:27,770 [main] INFO Bitbatua - Entered Website Name
+2021-09-15 15:18:27,950 [main] INFO Bitbatua - Select On Checkbox
+2021-09-15 15:18:28,121 [main] INFO Bitbatua - Click On Add Account Button
+2021-09-15 15:18:33,130 [main] INFO Bitbatua - validation started....
+2021-09-15 15:18:33,152 [main] INFO Bitbatua - test case passed....
+2021-09-15 15:19:09,966 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 15:19:33,242 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 15:19:35,057 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-15 15:19:36,344 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-15 15:19:38,782 [main] INFO Bitbatua - Selected ETH
+2021-09-15 15:19:38,975 [main] INFO Bitbatua - Successfully ETH Wallets Created
+2021-09-15 15:19:41,981 [main] INFO Bitbatua - validation started....
+2021-09-15 15:19:41,991 [main] INFO Bitbatua - test case passed....
+2021-09-15 15:19:55,691 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 15:19:57,657 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-15 15:19:58,922 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-15 15:20:01,390 [main] INFO Bitbatua - Selected INR
+2021-09-15 15:20:01,573 [main] INFO Bitbatua - Successfully INR Wallets Created
+2021-09-15 15:20:03,588 [main] INFO Bitbatua - validation started....
+2021-09-15 15:20:03,600 [main] INFO Bitbatua - test case passed....
+2021-09-15 15:20:17,036 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 15:20:18,709 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-15 15:20:19,961 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-15 15:20:45,868 [main] INFO Bitbatua - Clicking On Wallets
+2021-09-15 15:20:48,069 [main] INFO Bitbatua - Clicking On Create Wallets
+2021-09-15 15:20:49,319 [main] INFO Bitbatua - Entered Wallets Name
+2021-09-15 15:20:51,752 [main] INFO Bitbatua - Selected USDT
+2021-09-15 15:20:51,924 [main] INFO Bitbatua - Successfully USDT Wallets Created
+2021-09-15 15:20:54,931 [main] INFO Bitbatua - validation started....
+2021-09-15 15:20:54,952 [main] INFO Bitbatua - test case passed....
+2021-09-15 15:21:08,497 [main] INFO Bitbatua - Clicking On Fundaraiser
+2021-09-15 15:21:10,082 [main] INFO Bitbatua - Clicking On CreateFundaraiser
+2021-09-15 15:21:12,766 [main] INFO Bitbatua - Select Medical As Cause
+2021-09-15 15:21:14,143 [main] INFO Bitbatua - Entered Patient Name
+2021-09-15 16:24:56,870 [main] INFO Bitbatua - Clicking On Setting
+2021-09-15 16:25:00,433 [main] INFO Bitbatua - Entered Prakash P Nimje In Full Name
+2021-09-15 16:25:03,989 [main] INFO Bitbatua - Entered Near Trimurty Square NIT Garden,Mumbai In Address
+2021-09-15 16:25:07,448 [main] INFO Bitbatua - Entered Mumbai In city
+2021-09-15 16:25:10,850 [main] INFO Bitbatua - Entered Maharastra In State
+2021-09-15 16:25:14,247 [main] INFO Bitbatua - Entered 441802 In Zipcode
+2021-09-15 16:25:15,570 [main] INFO Bitbatua - Clicking On Combobox
+2021-09-15 16:25:34,624 [main] INFO Bitbatua - Clicked On Create Business Account
+2021-09-15 16:25:35,072 [main] INFO Bitbatua - Entered Business Name
+2021-09-15 16:25:35,568 [main] INFO Bitbatua - Entered Email Address
+2021-09-15 16:25:35,829 [main] INFO Bitbatua - Clicking On Setting
+2021-09-15 16:25:36,256 [main] INFO Bitbatua - Entered Address
+2021-09-15 16:25:37,297 [main] INFO Bitbatua - Clicking On Change Password
+2021-09-15 16:25:38,656 [main] INFO Bitbatua - Entered Current Password
+2021-09-15 16:25:38,738 [main] INFO Bitbatua - Click on NGO as Nature of Business
+2021-09-15 16:25:40,101 [main] INFO Bitbatua - Entered NEW Password
+2021-09-15 16:25:41,285 [main] INFO Bitbatua - Click ON Change Pass Button
+2021-09-15 16:25:43,369 [main] INFO Bitbatua - Click on India as Country
+2021-09-15 16:25:46,127 [main] INFO Bitbatua - Entered Website Name
+2021-09-15 16:25:46,326 [main] INFO Bitbatua - Select On Checkbox
+2021-09-15 16:25:46,518 [main] INFO Bitbatua - Click On Add Account Button
+2021-09-15 16:25:51,519 [main] INFO Bitbatua - validation started....
+2021-09-15 16:25:51,675 [main] INFO Bitbatua - test case passed....
+2021-09-15 16:27:17,743 [main] INFO Bitbatua - Clicked On Create Business Account
+2021-09-15 16:27:18,123 [main] INFO Bitbatua - Entered Business Name
+2021-09-15 16:27:18,575 [main] INFO Bitbatua - Entered Email Address
+2021-09-15 16:27:19,167 [main] INFO Bitbatua - Entered Address
+2021-09-15 16:27:21,617 [main] INFO Bitbatua - Click on Store as Nature of Business
+2021-09-15 16:27:26,138 [main] INFO Bitbatua - Click on India as Country
+2021-09-15 16:27:28,816 [main] INFO Bitbatua - Entered Website Name
+2021-09-15 16:27:29,002 [main] INFO Bitbatua - Select On Checkbox
+2021-09-15 16:27:29,169 [main] INFO Bitbatua - Click On Add Account Button
+2021-09-15 16:27:34,185 [main] INFO Bitbatua - validation started....
+2021-09-15 16:27:34,215 [main] INFO Bitbatua - test case passed....

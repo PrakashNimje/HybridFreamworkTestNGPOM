@@ -10,7 +10,7 @@ import Com.Bitbatua.pageObject.LoginPage;
 public class TC_LoginTest_001 extends BaseClass {
 
 	@Test
-	public void loginTest() throws IOException
+	public void loginTest() throws IOException, InterruptedException
 	{
 		driver.get(baseURL);
 
@@ -28,8 +28,9 @@ public class TC_LoginTest_001 extends BaseClass {
 		logger.info("Entered password");
 
 		lp.clickSubmit();
-
-		if(driver.getTitle().equals("Accept cryptocurrencies for online payments"))
+        
+		Thread.sleep(3000);
+		if(driver.getTitle().equals("DashBoard Page"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Login test passed");
@@ -42,7 +43,5 @@ public class TC_LoginTest_001 extends BaseClass {
 			logger.info("Login test failed");
 		}
 	}
-
-
 
 }

@@ -3,16 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005"/>
+      <class name="Com.Bitbatua.testcases.TC_WithDrawTest_019"/>
     </classes>
   </test> <!-- Default test -->
   <test name="Default test(failed)">
     <classes>
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005">
+      <class name="Com.Bitbatua.testcases.TC_WithDrawTest_019">
         <methods>
-          <include name="CreateBusinessAccounttTest"/>
+          <include name="WithrawETH"/>
         </methods>
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005 -->
+      </class> <!-- Com.Bitbatua.testcases.TC_WithDrawTest_019 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
