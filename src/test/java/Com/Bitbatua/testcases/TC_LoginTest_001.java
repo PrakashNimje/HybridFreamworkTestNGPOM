@@ -2,6 +2,7 @@ package Com.Bitbatua.testcases;
 
 import java.io.IOException;
 
+import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -30,18 +31,38 @@ public class TC_LoginTest_001 extends BaseClass {
 		lp.clickSubmit();
         
 		Thread.sleep(3000);
-		if(driver.getTitle().equals("DashBoard Page"))
+		
+//		Assert.assertTrue(driver.findElement(By.tagName("body")).getText()
+//                .contains("Login Successfully"));
+		
+		if(driver.findElement(By.tagName("body")).getText().contains("Login Successfully "))
 		{
-			Assert.assertTrue(true);
-			logger.info("Login test passed");
-		}
-
+		  Assert.assertTrue(true);
+		  logger.info("Login test passed");
+     	}
+		
 		else
-		{
+ 		{
 			captureScreen(driver,"loginTest");
 			Assert.assertTrue(false);
 			logger.info("Login test failed");
-		}
+ 		}
 	}
-
 }
+	
+		
+//////		if(driver.getTitle().equals("DashBoard Page"))
+//////		{
+//////			Assert.assertTrue(true);
+//////			logger.info("Login test passed");
+//////		}
+//////
+//////		else
+//////		{
+//////			captureScreen(driver,"loginTest");
+//////			Assert.assertTrue(false);
+//////			logger.info("Login test failed");
+////		}
+//	}
+//
+//}

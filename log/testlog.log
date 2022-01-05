@@ -1388,3 +1388,29 @@
 2021-09-15 16:27:29,169 - Bitbatua -INFO - Click On Add Account Button
 2021-09-15 16:27:34,185 - Bitbatua -INFO - validation started....
 2021-09-15 16:27:34,215 - Bitbatua -INFO - test case passed....
+2021-10-08 10:20:35,537 - Bitbatua -INFO - URL is opened
+2021-10-08 10:20:36,130 - Bitbatua -INFO - Clicked On Login
+2021-10-08 10:20:36,636 - Bitbatua -INFO - Entered username
+2021-10-08 10:20:37,047 - Bitbatua -INFO - Entered password
+2021-10-08 10:25:35,761 - Bitbatua -INFO - URL is opened
+2021-10-08 10:25:36,337 - Bitbatua -INFO - Clicked On Login
+2021-10-08 10:25:36,797 - Bitbatua -INFO - Entered username
+2021-10-08 10:25:37,210 - Bitbatua -INFO - Entered password
+2021-10-08 10:30:47,470 - Bitbatua -INFO - URL is opened
+2021-10-08 10:30:48,028 - Bitbatua -INFO - Clicked On Login
+2021-10-08 10:30:48,466 - Bitbatua -INFO - Entered username
+2021-10-08 10:30:48,808 - Bitbatua -INFO - Entered password
+2021-10-08 10:30:52,417 - Bitbatua -INFO - Login test passed
+2021-10-08 10:32:14,048 - Bitbatua -INFO - URL is opened
+2021-10-08 10:32:14,619 - Bitbatua -INFO - Clicked On Login
+2021-10-08 10:32:15,066 - Bitbatua -INFO - Entered username
+2021-10-08 10:32:15,708 - Bitbatua -INFO - Entered password
+2021-10-08 10:32:19,281 - Bitbatua -INFO - Login test passed
+2021-10-08 10:33:13,701 - Bitbatua -INFO - URL is opened
+2021-10-08 10:33:14,288 - Bitbatua -INFO - Clicked On Login
+2021-10-08 10:33:14,740 - Bitbatua -INFO - Entered username
+2021-10-08 10:33:15,427 - Bitbatua -INFO - Entered password
+2021-10-08 10:36:21,908 - Bitbatua -INFO - URL is opened
+2021-10-08 10:36:22,467 - Bitbatua -INFO - Clicked On Login
+2021-10-08 10:36:22,890 - Bitbatua -INFO - Entered username
+2021-10-08 10:36:23,477 - Bitbatua -INFO - Entered password

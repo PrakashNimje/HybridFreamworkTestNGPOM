@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="2" passed="1">
+<testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Bitbatua_BIBV1" duration-ms="55228" started-at="2021-09-15T10:56:40Z" finished-at="2021-09-15T10:57:36Z">
+  <suite name="Bitbatua_BIBV1" duration-ms="15202" started-at="2021-10-08T05:06:12Z" finished-at="2021-10-08T05:06:28Z">
     <groups>
     </groups>
-    <test name="Bitbatua Test" duration-ms="55228" started-at="2021-09-15T10:56:40Z" finished-at="2021-09-15T10:57:36Z">
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005@1e643faf]" name="setup" is-config="true" duration-ms="7500" started-at="2021-09-15T16:26:41Z" finished-at="2021-09-15T16:26:48Z">
+    <test name="Bitbatua Test" duration-ms="15202" started-at="2021-10-08T05:06:12Z" finished-at="2021-10-08T05:06:28Z">
+      <class name="Com.Bitbatua.testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@3b6eb2ec]" name="setup" is-config="true" duration-ms="7057" started-at="2021-10-08T10:36:13Z" finished-at="2021-10-08T10:36:20Z">
           <params>
             <param index="0">
               <value>
@@ -18,48 +18,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="CreateBusinessAccounttTestNGO()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005@1e643faf]" name="CreateBusinessAccounttTestNGO" duration-ms="16115" started-at="2021-09-15T16:26:48Z" finished-at="2021-09-15T16:27:05Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
+        <test-method status="FAIL" signature="loginTest()[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@3b6eb2ec]" name="loginTest" duration-ms="6648" started-at="2021-10-08T10:36:20Z" finished-at="2021-10-08T10:36:27Z">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Create a Business Account']"}
-  (Session info: chrome=93.0.4577.82)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'DESKTOP-2NUAO77', ip: '192.168.0.44', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60243}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c2705f94350ad7e967182139b4bf7a4a
-*** Element info: {Using=xpath, value=//a[normalize-space()='Create a Business Account']}]]>
+              <![CDATA[expected [true] but found [false]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Create a Business Account']"}
-  (Session info: chrome=93.0.4577.82)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
-System info: host: 'DESKTOP-2NUAO77', ip: '192.168.0.44', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60243}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c2705f94350ad7e967182139b4bf7a4a
-*** Element info: {Using=xpath, value=//a[normalize-space()='Create a Business Account']}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy10.click(Unknown Source)
-	at Com.Bitbatua.pageObject.CreateBusinessAccount.CreateABusinessAccount(CreateBusinessAccount.java:77)
-	at Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005.CreateBusinessAccounttTestNGO(TC_CreateBusiAcountTest_005.java:30)
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at Com.Bitbatua.testcases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:47)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -86,36 +56,15 @@ Session ID: c2705f94350ad7e967182139b4bf7a4a
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateBusinessAccounttTestNGO -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005@1e643faf]" name="tearDown" is-config="true" duration-ms="895" started-at="2021-09-15T16:27:05Z" finished-at="2021-09-15T16:27:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005 -->
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006@6e8dacdf]" name="setup" is-config="true" duration-ms="5023" started-at="2021-09-15T16:27:05Z" finished-at="2021-09-15T16:27:11Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="CreateBusinessAccountTestStore()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006@6e8dacdf]" name="CreateBusinessAccountTestStore" duration-ms="23203" started-at="2021-09-15T16:27:11Z" finished-at="2021-09-15T16:27:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CreateBusinessAccountTestStore -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006@6e8dacdf]" name="tearDown" is-config="true" duration-ms="1783" started-at="2021-09-15T16:27:34Z" finished-at="2021-09-15T16:27:36Z">
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.Bitbatua.testcases.TC_LoginTest_001@3b6eb2ec]" name="tearDown" is-config="true" duration-ms="815" started-at="2021-10-08T10:36:27Z" finished-at="2021-10-08T10:36:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006 -->
+      </class> <!-- Com.Bitbatua.testcases.TC_LoginTest_001 -->
     </test> <!-- Bitbatua Test -->
   </suite> <!-- Bitbatua_BIBV1 -->
 </testng-results>

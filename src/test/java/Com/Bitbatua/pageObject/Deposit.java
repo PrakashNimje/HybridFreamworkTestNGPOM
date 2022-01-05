@@ -99,24 +99,4 @@ public class Deposit {
 		btnSend.click();
 	}
 	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }

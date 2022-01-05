@@ -8,26 +8,19 @@
   <test name="Bitbatua Test">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005"/>
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006"/>
+      <class name="Com.Bitbatua.testcases.TC_LoginTest_001"/>
     </classes>
   </test> <!-- Bitbatua Test -->
   <test name="Bitbatua Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005">
+      <class name="Com.Bitbatua.testcases.TC_LoginTest_001">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="CreateBusinessAccounttTestNGO"/>
+          <include name="loginTest"/>
         </methods>
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateBusiAcountTest_005 -->
-      <class name="Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- Com.Bitbatua.testcases.TC_CreateBusiAcountTest_006 -->
+      </class> <!-- Com.Bitbatua.testcases.TC_LoginTest_001 -->
     </classes>
   </test> <!-- Bitbatua Test(failed) -->
 </suite> <!-- Failed suite [Bitbatua_BIBV1] -->
